@@ -64,17 +64,16 @@ def get_data_file_path(filepath: str) -> Path:
     """Returns the path object of the data
 
     Args:
-        filepath: The relative path from project root directory to the data file
+        filepath: The relative path from script directory to the data file
 
     Returns:
         The path object of the data path
     """
     script_dir = Path(__file__).parent
-    project_root = script_dir.parent
-    return Path(__file__).parent / filepath
+    return script_dir / filepath
     
-
-def main() -> int:
+    
+def main():
     parser = argparse.ArgumentParser(description="Process names from a file")
     parser.add_argument("-c", "--count", action="store_true", 
                        help="show character count")
@@ -87,10 +86,10 @@ def main() -> int:
     
     # Extract commandline arguments as booleans
     args = parser.parse_args()
-
+    
     try:
-        DATA_PATH = get_data_file_path(args.file)
-        list_of_names = read_names(DATA_PATH)
+        data_path = get_data_file_path(args.file)
+        list_of_names = read_names(data_path)
 
         if args.count:
             print("Number of occurences of alphabetical characters")
@@ -111,12 +110,8 @@ def main() -> int:
 
     except IOError as e:
         print(f"Error: {e}")
-        print(f"File permissions of {DATA_PATH} ")
-        print(f"Read: {os.access(DATA_PATH, os.R_OK)}, Write: {os.access(DATA_PATH, os.W_OK)}, Execute: {os.access(DATA_PATH, os.X_OK)}")
-
-    
-
-
+        print(f"File permissions of {data_path} ")
+        print(f"Read: {os.access(data_path, os.R_OK)}, Write: {os.access(data_path, os.W_OK)}, Execute: {os.access(data_path, os.X_OK)}")
 
 if __name__ == "__main__":
     main()

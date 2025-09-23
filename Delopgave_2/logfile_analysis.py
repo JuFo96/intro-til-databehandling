@@ -104,8 +104,8 @@ def main() -> None:
     args = parser.parse_args()
 
     try:
-        LOG_PATH =  get_data_file_path(args.file)
-        log_messages = read_file(LOG_PATH)
+        log_path =  get_data_file_path(args.file)
+        log_messages = read_file(log_path)
         separated_logs = seperate_log_by_type(log_messages)
         write_dict_to_files(separated_logs)
         
@@ -119,23 +119,11 @@ def main() -> None:
     
     except IOError as e:
         print(f"Error: {e}")
-        print(f"File permissions of {LOG_PATH}")
-        print(f"Read: {os.access(LOG_PATH, os.R_OK)}, Write: {os.access(LOG_PATH, os.W_OK)}, Execute: {os.access(LOG_PATH, os.X_OK)}")
+        print(f"File permissions of {log_path}")
+        print(f"Read: {os.access(log_path, os.R_OK)}, Write: {os.access(log_path, os.W_OK)}, Execute: {os.access(log_path, os.X_OK)}")
     
     except OSError as ose:
         print(f"OSError: {ose}")
-
-
-
-
-    
-
-
-    
-    
-    
-
-
 
 if __name__ == "__main__":
     main()

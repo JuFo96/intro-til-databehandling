@@ -3,10 +3,9 @@ import os
 import argparse
 import matplotlib.pyplot as plt
 
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Pandas CSV Reader")
-    parser.add_argument("--file", type=str, default="../Data/DKHousingPricesSample100k.csv")
+    parser.add_argument("--file", type=str, default="Data/DKHousingPricesSample100k.csv")
     parser.add_argument("--outdir", type=str, default="plots")
     args = parser.parse_args()
     FILE_PATH = args.file

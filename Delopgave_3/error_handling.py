@@ -30,7 +30,7 @@ def write_csv(data: list[list[str]], dirpath: str) -> None:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="File Reader for Data Migration")
-    parser.add_argument("--file", type=str, default="../Data/source_data.csv")
+    parser.add_argument("--file", type=str, default="Data/source_data.csv")
     parser.add_argument("--outdir", type=str, default="logs")
     args = parser.parse_args()
     FILE_PATH = args.file
