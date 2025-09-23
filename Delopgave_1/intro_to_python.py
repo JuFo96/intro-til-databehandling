@@ -31,7 +31,7 @@ def read_names(filepath: Path) -> list[str]:
         raise ValueError(f"File is empty: {filepath}")
     
     list_of_names = file_content.lower().split(",")
-    # Removes whitespace around individual names
+    # Removes whitespace around individual names by looping over each name
     stripped_list_of_names = [name.strip() for name in list_of_names]
 
     return stripped_list_of_names
@@ -54,6 +54,7 @@ def count_letters_in_names(names: list[str]) -> dict[str, int]:
     letter_count = {}
     for name in names:
         for letter in name:
+            # Skips empty strings and non-alphabetical characters
             if letter.isalpha(): 
                 letter_count[letter] = letter_count.get(letter, 0) + 1
     return letter_count
@@ -70,7 +71,7 @@ def get_data_file_path(filepath: str) -> Path:
     """
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
-    return project_root / filepath
+    return Path(__file__).parent / filepath
     
 
 def main() -> int:
@@ -81,8 +82,8 @@ def main() -> int:
                        help="show names sorted alphabetically")
     parser.add_argument("-l", "--length", action="store_true", 
                        help="show names sorted by length")
-    parser.add_argument("-f", "--file", type=str, default="Data/Navneliste.txt",
-                       help="relative path from project root to the file containing names")
+    parser.add_argument("-f", "--file", type=str, default="../Data/Navneliste.txt",
+                       help="path to the file containing names")
     
     # Extract commandline arguments as booleans
     args = parser.parse_args()
@@ -90,30 +91,31 @@ def main() -> int:
     try:
         DATA_PATH = get_data_file_path(args.file)
         list_of_names = read_names(DATA_PATH)
+
+        if args.count:
+            print("Number of occurences of alphabetical characters")
+            sorted_dict = count_letters_in_names(sorted(list_of_names))
+            print(sorted_dict)
+        if args.alphabetical:
+            print("List of names sorted alphabetically")
+            print(sorted(list_of_names))
+        if args.length:
+            print("List of names sorted by length")
+            print(sorted(list_of_names, key=len))
+     
     except FileNotFoundError as e:
         print(f"Error: {e}")
-        return 1
+
     except ValueError as e:
         print(f"Error: {e}")
-        return 1
+
     except IOError as e:
         print(f"Error: {e}")
         print(f"File permissions of {DATA_PATH} ")
         print(f"Read: {os.access(DATA_PATH, os.R_OK)}, Write: {os.access(DATA_PATH, os.W_OK)}, Execute: {os.access(DATA_PATH, os.X_OK)}")
-        return 1
-    
-    if args.count:
-        print("Number of occurences of alphabetical characters")
-        sorted_dict = count_letters_in_names(sorted(list_of_names))
-        print(sorted_dict)
-    if args.alphabetical:
-        print("List of names sorted alphabetically")
-        print(sorted(list_of_names))
-    if args.length:
-        print("List of names sorted by length")
-        print(sorted(list_of_names, key=len))
 
-    return 0
+    
+
 
 
 if __name__ == "__main__":
