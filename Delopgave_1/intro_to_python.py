@@ -29,8 +29,9 @@ def read_names(filepath: Path) -> list[str]:
 
     if not file_content:
         raise ValueError(f"File is empty: {filepath}")
-
+    
     list_of_names = file_content.lower().split(",")
+    # Removes whitespace around individual names
     stripped_list_of_names = [name.strip() for name in list_of_names]
 
     return stripped_list_of_names
@@ -85,7 +86,7 @@ def main() -> int:
     
     # Extract commandline arguments as booleans
     args = parser.parse_args()
-    
+
     try:
         DATA_PATH = get_data_file_path(args.file)
         list_of_names = read_names(DATA_PATH)
