@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 import argparse
 from pathlib import Path
 import matplotlib.pyplot as plt
@@ -95,28 +94,25 @@ def plot_home_types(home_types: pd.Series) -> None:
         plt.show()
 
 def main() -> None:
-    
-
-if __name__ == "__main__":
     parser = setup_parser(Config())
-
     args = parser.parse_args()
-    file_path = args.input_file
-    df = pd.read_csv(file_path)
 
-    regional_prices = df.groupby("region")["purchase_price"].mean()
-    plot_regional_prices(regional_prices)
-    print(regional_prices)
+    try:
+        file_path = args.input_file
+        df = pd.read_csv(file_path)
 
+        regional_prices = df.groupby("region")["purchase_price"].mean()
+        plot_regional_prices(regional_prices)
+        print(regional_prices)
 
-    home_types = df["house_type"].value_counts()
-    plot_home_types(home_types)
-    print(home_types)
+        home_types = df["house_type"].value_counts()
+        plot_home_types(home_types)
+        print(home_types)
+        print(f"Successfully read and processed csv file: {file_path}")
+
+    except OSError as e:
+        print(f"Error reading file: {e}")
+        print("Check write permissions")
     
-
-    
-    
-
-    
-    
-
+if __name__ == "__main__":
+    main()

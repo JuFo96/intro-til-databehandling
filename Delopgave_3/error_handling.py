@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 from dataclasses import dataclass
 
+
 @dataclass
 class Config:
     input_file: str = "../Data/source_data.csv"
@@ -91,7 +92,7 @@ def write_csv(data: list[list[str]], file_output_name) -> None:
     """
     
     # Checks if there is a "logs" directory in the project root directory, if not it creates one
-    logs_dir = get_path("../logs/Delopgave_3")
+    logs_dir = get_path(Config.logs_dir)
     logs_dir.mkdir(exist_ok=True, parents=True) # raises OSError if directory cannot be created
     file_name = file_output_name
 
@@ -123,16 +124,16 @@ def setup_parser(config: Config) -> argparse.ArgumentParser:
         An argparse.ArgumentParser object with the configured arguments.
     """
     parser = argparse.ArgumentParser(description="File Reader for Data Migration")
-    parser.add_argument("-i", "--input-file", type=str, default=config.input_file)
-    parser.add_argument("-o", "--output-file", type=str, default=config.output_file)
+    parser.add_argument("-i", "--input-file", type=str, default=config.input_file, help="(default: {config.input_file})")
+    parser.add_argument("-o", "--output-file", type=str, default=config.output_file, help="(default: {config.output_file})")
     parser.add_argument("-d", "--drop-rows", action="store_true", help="drops rows containing invalid ids and rows containing empty values") 
     parser.add_argument("-v", "--verbose", action="store_true", help="prints contents of the csv to the terminal")
     return parser
 
 
 def main():
-    config = Config()
-    parser = setup_parser(config)
+    default_config = Config()
+    parser = setup_parser(default_config)
 
     # Extract command line arguments
     args = parser.parse_args()
@@ -149,7 +150,7 @@ def main():
             print(file_content)
     
         write_csv(file_content, args.output_file)
-        print(f"Successfully read and wrote csv file to directory: {config.logs_dir}")
+        print(f"Successfully read and wrote csv file to directory: {Config.logs_dir}")
 
     except ValueError as ve:
         print(f"ValueError: {ve}")

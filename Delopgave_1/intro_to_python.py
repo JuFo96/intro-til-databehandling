@@ -60,7 +60,7 @@ def count_letters_in_names(names: list[str]) -> dict[str, int]:
     return letter_count
 
 
-def get_data_file_path(filepath: str) -> Path:
+def get_path(filepath: str) -> Path:
     """Returns the path object of the data
 
     Args:
@@ -88,7 +88,7 @@ def main():
     args = parser.parse_args()
     
     try:
-        data_path = get_data_file_path(args.file)
+        data_path = get_path(args.file)
         list_of_names = read_names(data_path)
 
         if args.count:
@@ -101,6 +101,8 @@ def main():
         if args.length:
             print("List of names sorted by length")
             print(sorted(list_of_names, key=len))
+        
+        print(f"Successfully read names from file: {data_path}")
      
     except FileNotFoundError as e:
         print(f"Error: {e}")

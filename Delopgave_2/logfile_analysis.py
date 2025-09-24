@@ -1,7 +1,6 @@
 import os
 import argparse 
 from pathlib import Path
-import sys
 
 
 def read_file(filepath: Path) -> list[str]:
@@ -87,7 +86,7 @@ def write_dict_to_files(data: dict[str, list[str]]) -> None:
                 file.write(f"{message}\n")
 
 
-def get_data_file_path(filepath: str) -> Path:
+def get_path(filepath: str) -> Path:
     """Returns the path object of the data
 
     Args:
@@ -107,7 +106,7 @@ def main() -> None:
     args = parser.parse_args()
 
     try:
-        log_path =  get_data_file_path(args.file)
+        log_path = get_path(args.file)
         log_messages = read_file(log_path)
         separated_logs = seperate_log_by_type(log_messages)
         write_dict_to_files(separated_logs)
