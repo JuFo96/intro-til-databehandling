@@ -1,6 +1,7 @@
 import os
 import argparse 
 from pathlib import Path
+import sys
 
 
 def read_file(filepath: Path) -> list[str]:
@@ -17,6 +18,7 @@ def read_file(filepath: Path) -> list[str]:
         ValueError: If the file is empty or or not a file.
         IOError: If there are issues reading the file.
     """
+
     if not filepath.exists():
         raise FileNotFoundError(f"File not found at: {filepath}")
     if not filepath.is_file():
@@ -44,6 +46,7 @@ def seperate_log_by_type(log: list[str]) -> dict[str, list[str]]:
     Raises:
         ValueError: If the log list is empty.
     """
+
     log_dict = {"INFO": [], "WARNING": [], "ERROR": [], "SUCCESS": []}
     
     if not log:
@@ -109,7 +112,7 @@ def main() -> None:
         separated_logs = seperate_log_by_type(log_messages)
         write_dict_to_files(separated_logs)
         
-        print("Successfully processed log file and wrote to separate files.")
+        print("Successfully processed log file and wrote files to ../logs/Delopgave_2/.")
 
     except ValueError as ve:
         print(f"ValueError: {ve}")

@@ -13,7 +13,7 @@ nan,Sandra,sandra.holt@hotmail.com,423.25
 12,Jennifer Simmons,jennifer.simmons@hotmail.com,49.48
 13,Gabriel Preston,gabriel.preston@hotmail.com,277.89
 14,Tami Ashley,tami.ashley@yahoo.com,632.72
-15,  James Farmer   ,james.farmer@yahoo.com,148.23
+15,James Farmer,james.farmer@yahoo.com,148.23
 16,Leon Griffin,leon.griffin@hotmail.com,440.0
 17,Justin Anderson,justin.anderson@yahoo.com,718.240
 18,Eric George,eric.george@hotmail.com,546.74
@@ -25,7 +25,7 @@ nan,Sandra,sandra.holt@hotmail.com,423.25
 24,Marcus Long Jr.,marcus.long@hotmail.com,731.94
 25,Jeffrey Haley,jeffrey.haley@yahoo.com,707.01
 ,,,
-27,  Charlotte Hahn   ,charlotte.hahn@gmail.com,324.07
+27,Charlotte Hahn,charlotte.hahn@gmail.com,324.07
 28,Karen Williams,karen.williams@hotmail.com,433.18
 29,,Charles Holmes,charles.holmes@gmail.com,465.5
 30,Sarah Turner,sarah.turner@gmail.com,178.06
@@ -57,7 +57,7 @@ nan,Sandra,sandra.holt@hotmail.com,423.25
 56,Jennifer Moore,jennifer.moore@yahoo.com,629.04
 57,Shelly Chavez,shelly.chavez@yahoo.com,601.84
 58,Troy Munoz,troy.munoz@yahoo.com,579.92
-59,  James Bryant   ,james.bryant@gmail.com,562.95
+59,James Bryant,james.bryant@gmail.com,562.95
 60,Amy Bell,amy.bell@gmail.com,969.26
 61,Barbara Thomas,barbara.thomas@hotmail.com,997.64
 62,Alison Jackson,alison.jackson@yahoo.com,804.66
@@ -103,7 +103,7 @@ nan,Jonathan Jones,jonathan.jones@gmail.com,219.95
 102,Jeffrey Hogan,jeffrey.hogan@yahoo.com,507.9
 103,Alexandria Beard,alexandria.beard@yahoo.com,577.02
 104,,Brian Taylor,brian.taylor@gmail.com,276.45
-105,  Patricia Johnson   ,patricia.johnson@gmail.com,397.93
+105,Patricia Johnson,patricia.johnson@gmail.com,397.93
 106,Michael Riggs,michael.riggs@hotmail.com,ABC123
 107,Nicholas May,nicholas.may@gmail.com,784.83
 ,,,
@@ -118,14 +118,14 @@ nan,Jonathan Jones,jonathan.jones@gmail.com,219.95
 117,Cheryl Hale,cheryl.hale@kid,13.280
 ,,,
 ,,,
-120,  Alexis Reeves   ,alexis.reeves@hotmail.com,892.02
+120,Alexis Reeves,alexis.reeves@hotmail.com,892.02
 121,Dr. Natasha Bonilla,dr..natasha@hotmail.com,403.73
 122,Mark Hayes,mark.hayes@yahoo.com,718.47
 123,Nathan Wilson,nathan.wilson@yahoo.com,748.68
 124,Cynthia Gonzalez,cynthia.gonzalez@yahoo.com,585.65
 125,Breanna Marshall,breanna.marshall@gmail.com,617.55
 ,126,Tiffany Glover,tiffany.glover@gmail.com,321.94
-127,  Angela Mcclain   ,angela.mcclain@yahoo.com,876.040
+127,Angela Mcclain,angela.mcclain@yahoo.com,876.040
 128,Jennifer Shea,jennifer.shea@gmail.com,365.04
 129,Brittany Daniels,brittany.daniels@hotmail.com,937.58
 130,Jesse Williams,jesse.williams@yahoo.com,187.47
@@ -306,7 +306,7 @@ nan,Nancy Berry,nancy.berry@gmail.com,226.49
 ,,,
 306,Leslie Anderson,,424.53
 307,Ashley Winters,ashley.winters@gmail.com,782.42
-308,  James White   ,james.white@gmail.com,805.07
+308,James White,james.white@gmail.com,805.07
 309,James Hurst,james.hurst@hotmail.com,365.93
 310,Elizabeth Cain,elizabeth.cain@yahoo.com,117.3
 311,,Roy Torres,roy.torres@gmail.com,569.5
@@ -361,7 +361,7 @@ nan,Nancy Berry,nancy.berry@gmail.com,226.49
 360,Michelle Kelley,michelle.kelley@yahoo.com,821.34
 361,Elizabeth Simpson,elizabeth.simpson@gmail.com,311.29
 ,,,
-363,  Monica Leach   ,monica.leach@yahoo.com,166.39
+363,Monica Leach,monica.leach@yahoo.com,166.39
 364,Philip Moore,philip.moore@hotmail.com,569.52
 365,,Robert Richards,robert.richards@gmail.com,326.89
 366,Joseph Brown,joseph.brown@hotmail.com,758.73
@@ -424,7 +424,7 @@ nan,Nancy Berry,nancy.berry@gmail.com,226.49
 423,Kimberly Johnson,kimberly.johnson@gmail.com,224.67
 424,Nancy Jacobs,nancy.jacobs@yahoo.com,972.76
 425,Blake Davis,blake.davis@yahoo.com,410.92
-426,  Susan Washington   ,susan.washington@hotmail.com,715.14
+426,Susan Washington,susan.washington@hotmail.com,715.14
 nan,John Johnson,john.johnson@gmail.com,363.39
 428,Phillip Quinn,phillip.quinn@yahoo.com,661.38
 429,Mario Burns,mario.burns@hotmail.com,306.87
@@ -445,7 +445,7 @@ nan,John Johnson,john.johnson@gmail.com,363.39
 ,,,
 445,Phillip Deleon,phillip.deleon@gmail.com,438.35
 446,Lauren Kane,lauren.kane@gmail.com,721.77
-447,  Michelle Dennis   ,michelle.dennis@gmail.com,615.97
+447,Michelle Dennis,michelle.dennis@gmail.com,615.97
 448,Mrs. Melody Peterson,mrs..melody@gmail.com,342.73
 449,Emily Snyder,emily.snyder@yahoo.com,399.94
 450,Lawrence Kelly,lawrence.kelly@gmail.com,ABC123
@@ -564,7 +564,7 @@ nan,John Johnson,john.johnson@gmail.com,363.39
 563,Charlotte Palmer,charlotte.palmer@yahoo.com,253.69
 564,Steven Strickland,steven.strickland@gmail.com,324.4
 565,Ann Gibbs,ann.gibbs@hotmail.com,216.01
-566,  Andrea Cunningham   ,andrea.cunningham@hotmail.com,391.44
+566,Andrea Cunningham,andrea.cunningham@hotmail.com,391.44
 116,Jessica Howard,jessica.howard@gmail.com,638.56
 ,,,
 569,Maria Allen,maria.allen@gmail.com,158.69
@@ -585,7 +585,7 @@ nan,David Colon,david.colon@gmail.com,279.09
 584,Juan Vargas,juan.vargas@gmail.com,242.5
 585,Sharon Hall,,sharon.hall@gmail.com,565.46
 586,,Rebekah Benjamin,rebekah.benjamin@yahoo.com,419.09
-587,  Mary Gibson   ,mary.gibson@gmail.com,357.6
+587,Mary Gibson,mary.gibson@gmail.com,357.6
 588,Kevin Davis,kevin.davis@gmail.com,712.64
 589,Mark Savage,mark.savage@gmail.com,-527.89
 590,Tyler Ortiz,tyler.ortiz@hotmail.com,737.02
@@ -677,7 +677,7 @@ nan,David Colon,david.colon@gmail.com,279.09
 676,Miss Alexis Gates,miss.alexis@gmail.com,584.37
 677,Danielle Ellis,danielle.ellis@yahoo.com,540.66
 678,Lindsey Butler,lindsey.butler@yahoo.com,591.09
-679,  Ryan Ortiz   ,ryan.ortiz@hotmail.com,599.64
+679,Ryan Ortiz,ryan.ortiz@hotmail.com,599.64
 680,,Ashley Garcia,ashley.garcia@yahoo.com,218.83
 681,Jason Yates,jason.yates@yahoo.com,346.12
 682,Karen Mills,karen.mills@yahoo.com,607.88
@@ -803,7 +803,7 @@ nan,Rita Diaz,rita.diaz@hotmail.com,433.14
 802,Tracy Cole,tracy.cole@yahoo.com,209.65
 803,Paul Schneider,paul.schneider@hotmail.com,269.43
 804,Michael,michael.cervantes@gmail.com,164.51
-805,  Sarah Cooper   ,sarah.cooper@gmail.com,903.5
+805,Sarah Cooper,sarah.cooper@gmail.com,903.5
 806,Martin Roberts,martin.roberts@yahoo.com,213.14
 807,Olivia Garcia,olivia.garciahotmail.com,628.0
 808,Kristine Miller,kristine.miller@hotmail.com,596.23
@@ -998,7 +998,7 @@ nan,Patrick Sawyer,patrick.sawyer@hotmail.com,161.6
 997,David Stevenson,david.stevenson@gmail.com,105.57
 998,Megan Gomez,megan.gomez@yahoo.com,43.58
 999,Samuel Mason,samuel.mason@gmail.com,381.4
-881,  Joseph Petty   ,joseph.petty@hotmail.com,370.75
+881,Joseph Petty,joseph.petty@hotmail.com,370.75
 1001,Matthew Sandoval,matthew.sandoval@yahoo.com,-285.95
 1002,Tamara Hartman,tamara.hartmanhotmail.com,903.19
 1003,Julia Harris,julia.harris@yahoo.com,170.63
@@ -1033,7 +1033,7 @@ nan,Sandra Hogan,sandra.hogan@hotmail.com,889.87
 1032,Linda Garrison,linda.garrison@gmail.com,706.97
 1033,Jennifer Avila,jennifer.avila@gmail.com,605.85
 1034,Andrew Berry,andrew.berry@gmail.com,192.76
-1035,  Stacey Martin   ,stacey.martin@yahoo.com,329.29
+1035,Stacey Martin,stacey.martin@yahoo.com,329.29
 1036,Wesley Campos,wesley.campos@gmail.com,501.34
 ,,,
 1038,Katherine Young,katherine.young@yahoo.com,981.66
@@ -1071,9 +1071,9 @@ nan,Sandra Hogan,sandra.hogan@hotmail.com,889.87
 1070,Michael Paul,michael.paul@yahoo.com,155.39
 1071,Ashley Owens,ashley.owenshotmail.com,954.88
 1072,Gregory Crawford,gregory.crawford@hotmail.com,478.71
-1073,  James Johnson   ,james.johnson@hotmail.com,383.27
+1073,James Johnson,james.johnson@hotmail.com,383.27
 1074,Darren Davis,darren.davis@hotmail.com,887.96
-1075,  Todd Harper   ,todd.harper@gmail.com,778.96
+1075,Todd Harper,todd.harper@gmail.com,778.96
 1076,Christopher Kennedy,christopher.kennedy@yahoo.com,689.28
 1077,Ashley Lee,ashley.lee@gmail.com,918.12
 1078,Samuel Charles,samuel.charles@yahoo.com,887.03
@@ -1119,7 +1119,7 @@ nan,Nathan Roth,nathan.roth@hotmail.com,678.69
 733,Christopher Smith,christopher.smith@gmail.com,543.47
 1119,Nancy White,nancy.white@yahoo.com,885.4
 1120,Rebecca Griffin,rebecca.griffin@yahoo.com,906.22
-1121,  Joshua Pena   ,joshua.pena@yahoo.com,412.83
+1121,Joshua Pena,joshua.pena@yahoo.com,412.83
 1122,Philip Johnson,philip.johnson@hotmail.com,505.18
 ,1123,Tracy Olson,tracy.olson@hotmail.com,283.99
 1124,Jeffery Bailey,jeffery.bailey@yahoo.com,412.61
@@ -1173,7 +1173,7 @@ nan,Nathan Roth,nathan.roth@hotmail.com,678.69
 1172,Veronica Velez,veronica.velez@hotmail.com,394.58
 1173,Joann Hunter,joann.hunter@hotmail.com,448.6
 1174,Angel Walker,angel.walker@hotmail.com,528.92
-1175,  Morgan Wilson   ,morgan.wilson@yahoo.com,533.75
+1175,Morgan Wilson,morgan.wilson@yahoo.com,533.75
 1176,John Anderson,john.anderson@hotmail.com,832.58
 1177,Julie Elliott,julie.elliott@yahoo.com,433.53
 1178,Bradley Hughes,bradley.hughes@yahoo.com,337.13
@@ -1213,7 +1213,7 @@ nan,Nathan Roth,nathan.roth@hotmail.com,678.69
 1212,Stephen Terry,stephen.terry@yahoo.com,182.91
 ,,,
 1214,Carol House,carol.house@yahoo.com,872.93
-1215,  Brandon Gray   ,brandon.gray@yahoo.com,870.46
+1215,Brandon Gray,brandon.gray@yahoo.com,870.46
 1216,Nicole Mclaughlin,nicole.mclaughlin@gmail.com,379.07
 ,,,
 1218,Daniel Arnold,,133.28
@@ -1298,7 +1298,7 @@ nan,Nathan Roth,nathan.roth@hotmail.com,678.69
 1297,Damon Carter,damon.carter@yahoo.com,ABC123
 1298,James Cameron,james.cameron@gmail.com,607.44
 1299,Paula,paula.bates@yahoo.com,406.85
-1300,  Patricia Hickman   ,,702.5
+1300,Patricia Hickman,,702.5
 1301,Amber Campbell,amber.campbell@hotmail.com,441.53
 1302,Derrick Thompson,derrick.thompson@hotmail.com,881.62
 1303,Sierra Austin,sierra.austin@hotmail.com,443.73
@@ -1362,7 +1362,7 @@ nan,Nathan Roth,nathan.roth@hotmail.com,678.69
 1361,Jimmy Vega,jimmy.vega@yahoo.com,647.58
 1362,Lori Morales,lori.morales@yahoo.com,322.17
 1363,Edward Johnson Jr.,edward.johnson@hotmail.com,870.9
-1364,  Jason Marshall   ,jason.marshall@gmail.com,469.57
+1364,Jason Marshall,jason.marshall@gmail.com,469.57
 1365,Donald Roth,,donald.roth@hotmail.com,706.54
 1366,Ashley Johnson,ashley.johnson@gmail.com,558.98
 1367,Kimberly Thomas,kimberly.thomas@yahoo.com,339.01
@@ -1434,7 +1434,7 @@ nan,Nathan Roth,nathan.roth@hotmail.com,678.69
 1433,Anne Miller,anne.miller@yahoo.com,910.05
 1434,Jonathan Davis,jonathan.davis@hotmail.com,236.21
 1435,Colin Patterson,colin.patterson@gmail.com,434.55
-1436,  Heidi Stewart   ,heidi.stewart@gmail.com,674.32
+1436,Heidi Stewart,heidi.stewart@gmail.com,674.32
 1437,Dawn Torres,,688.24
 1438,Joshua Williamson,joshua.williamson@gmail.com,91.28
 1439,Alicia Li,alicia.li@yahoo.com,-373.55
@@ -1486,7 +1486,7 @@ nan,Nathan Roth,nathan.roth@hotmail.com,678.69
 1485,John Ford,,228.61
 1486,Donald Haynes,donald.haynes@gmail.com,700.54
 1487,Kayla Moore,,833.87
-1488,  James Watkins   ,james.watkins@yahoo.com,14.98
+1488,James Watkins,james.watkins@yahoo.com,14.98
 1489,Kenneth Murphy,kenneth.murphy@gmail.com,119.62
 1490,Nicole Fleming,nicole.fleming@hotmail.com,938.18
 1491,Timothy Reynolds,timothy.reynoldshotmail.com,327.56
@@ -1640,7 +1640,7 @@ nan,Daniel Washington,daniel.washington@gmail.com,783.72
 1639,Trevor,trevor.yates@gmail.com,236.71
 1640,Jonathan Andrews,jonathan.andrews@hotmail.com,418.47
 1641,Melissa Mercado,melissa.mercado@yahoo.com,309.21
-nan,  Sergio Brown   ,sergio.brown@gmail.com,579.03
+nan,Sergio Brown,sergio.brown@gmail.com,579.03
 1643,Jennifer Velazquez,jennifer.velazquez@hotmail.com,726.6
 1644,Jennifer Brown,jennifer.brown@gmail.com,646.06
 1645,Gregory Thomas,gregory.thomas@hotmail.com,198.52
@@ -1699,7 +1699,7 @@ nan,Ashley Hall,ashley.hall@yahoo.com,300.88
 1698,Michael Bradshaw,michael.bradshaw@yahoo.com,473.16
 1699,Kimberly Hernandez,kimberly.hernandez@yahoo.com,580.16
 1700,Gary Cohen,gary.cohen@yahoo.com,513.84
-,1701,  Sally Davis   ,sally.davis@hotmail.com,808.32
+,1701,Sally Davis,sally.davis@hotmail.com,808.32
 1702,Angela Wilson,angela.wilson@hotmail.com,465.99
 1703,Jason Adams,jason.adams@hotmail.com,782.53
 1704,Dana Gentry,dana.gentry@yahoo.com,950.37
@@ -1724,7 +1724,7 @@ nan,Ashley Hall,ashley.hall@yahoo.com,300.88
 1723,Eric Morris,eric.morris@gmail.com,702.99
 1724,David Sims,david.sims@gmail.com,457.77
 1725,Charles Thompson,charles.thompson@hotmail.com,297.77
-1726,  Aimee Stewart   ,aimee.stewart@gmail.com,180.44
+1726,Aimee Stewart,aimee.stewart@gmail.com,180.44
 1727,Adrian Coleman,adrian.coleman@gmail.com,653.49
 1728,John West,john.west@gmail.com,482.12
 1729,Keith Harris,,205.6
@@ -1830,7 +1830,7 @@ nan,Holly Brock,holly.brock@gmail.com,232.74
 1829,Angela Manning,angela.manning@yahoo.com,402.32
 1830,Thomas Miller,thomas.miller@gmail.com,42.99
 1831,Jonathan Hayes,jonathan.hayes@yahoo.com,814.33
-1832,  Michael Clark   ,michael.clark@hotmail.com,811.43
+1832,Michael Clark,michael.clark@hotmail.com,811.43
 1833,Ruben Stewart,ruben.stewart@yahoo.com,688.8
 1834,George Morris,george.morris@gmail.com,331.91
 1835,Maria Winters,maria.winters@yahoo.com,540.6
@@ -1930,7 +1930,7 @@ nan,Tony Cobb,tony.cobb@gmail.com,949.25
 1929,Karen Newton,karen.newton@gmail.com,650.54
 1930,Angel Pearson,angel.pearson@yahoo.com,268.28
 1931,Christie Smith,christie.smith@gmail.com,921.14
-1932,  Loretta Blake   ,loretta.blake@hotmail.com,692.49
+1932,Loretta Blake,loretta.blake@hotmail.com,692.49
 1933,Jennifer Spencer,jennifer.spencer@hotmail.com,130.06
 1934,Mr. David Peterson,mr..david@gmail.com,173.9
 1935,Norman Snow,norman.snow@hotmail.com,254.06
@@ -2048,8 +2048,8 @@ nan,Tony Cobb,tony.cobb@gmail.com,949.25
 2047,Janice Singleton,janice.singleton@yahoo.com,967.76
 ,,,
 2049,Nancy Soto,nancy.soto@yahoo.com,11.51
-2050,  Cole Lopez   ,cole.lopez@yahoo.com,485.39
-2051,  Laura Flowers   ,laura.flowers@hotmail.com,613.34
+2050,Cole Lopez,cole.lopez@yahoo.com,485.39
+2051,Laura Flowers,laura.flowers@hotmail.com,613.34
 2052,Stacy Esparza,,ABC123
 2053,Nicholas Ford,nicholas.ford@gmail.com,944.56
 2054,John Greene,john.greene@yahoo.com,425.32
@@ -2205,7 +2205,7 @@ nan,Tony Cobb,tony.cobb@gmail.com,949.25
 2204,Michele Jackson,michele.jackson@yahoo.com,15.95
 2205,Larry Booth,larry.booth@gmail.com,561.75
 ,,,
-2207,  David Merritt   ,david.merritt@gmail.com,550.52
+2207,David Merritt,david.merritt@gmail.com,550.52
 2208,Matthew Higgins,matthew.higgins@yahoo.com,556.32
 2209,Kent Garcia,kent.garcia@hotmail.com,623.73
 2210,Joseph Stone,joseph.stone@gmail.com,718.88
@@ -2294,7 +2294,7 @@ nan,Eric Watts,eric.watts@yahoo.com,564.97
 ,,,
 2294,Stephen Thompson,stephen.thompson@gmail.com,267.61
 nan,Angela Porter,angela.porter@hotmail.com,713.6
-2296,  Meredith Peters   ,meredith.petershotmail.com,52.85
+2296,Meredith Peters,meredith.petershotmail.com,52.85
 2297,Tara Lopez,tara.lopez@gmail.com,872.54
 2298,Jeff Allen,jeff.allen@,702.39
 2299,Janet Mckenzie,janet.mckenzie@win,275.39
@@ -2329,7 +2329,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 2328,david stewart,david.stewart@yahoo.com,711.2
 2329,Travis Taylor,travis.taylor@gmail.com,485.37
 ,,,
-2331,  Angelica Rojas   ,angelica.rojas@hotmail.com,975.59
+2331,Angelica Rojas,angelica.rojas@hotmail.com,975.59
 2332,Douglas Braun,douglas.braun@gmail.com,105.68
 2333,Michelle Sandoval,michelle.sandoval@hotmail.com,698.8
 2334,Helen Martin,helen.martin@hotmail.com,461.83
@@ -2416,13 +2416,13 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 2415,Kathleen Baldwin,kathleen.baldwin@gmail.com,352.03
 2416,Kiara Johnson,kiara.johnson@gmail.com,584.4
 2417,Alisha,alisha.thomas@gmail.com,78.19
-2418,  Angela Lambert   ,angela.lambert@hotmail.com,140.26
+2418,Angela Lambert,angela.lambert@hotmail.com,140.26
 2419,Tracy Ray,tracy.ray@yahoo.com,538.42
 2420,Eric Taylor,eric.taylor@gmail.com,488.41
 2421,Danielle Hill,danielle.hill@hotmail.com,13.94
 2422,Maurice Suarez,maurice.suarez@hotmail.com,649.12
 2423,Amy Rhodes,amy.rhodes@hotmail.com,49.55
-2424,  Jill Crawford   ,jill.crawford@gmail.com,938.17
+2424,Jill Crawford,jill.crawford@gmail.com,938.17
 2425,Patrick Myers,patrick.myers@hotmail.com,39.1
 2426,Ricardo Baker,ricardo.baker@gmail.com,134.75
 2427,Mr. Matthew Swanson,mr..matthew@yahoo.com,396.02
@@ -2667,7 +2667,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 2666,Bryan Sanchez,bryan.sanchez@hotmail.com,31.02
 2667,Tonya Hughes,tonya.hughes@gmail.com,692.89
 2668,Katie Carter,katie.carter@gmail.com,420.12
-2669,  Patrick Brown   ,patrick.brown@yahoo.com,667.14
+2669,Patrick Brown,patrick.brown@yahoo.com,667.14
 2670,Joseph Moreno,,joseph.moreno@hotmail.com,973.07
 2671,Stacy Coleman,stacy.coleman@yahoo.com,647.08
 2672,James Hall,james.hall@gmail.com,560.26
@@ -2711,7 +2711,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 2710,Billy Martinez,billy.martinez@,51.15
 2711,Troy Robertson,troy.robertson@hotmail.com,36.54
 2712,Mark Lawson,mark.lawson@gmail.com,,582.96
-2713,  Mrs. Sarah Morris PhD   ,mrs..sarah@,974.59
+2713,Mrs. Sarah Morris PhD,mrs..sarah@,974.59
 2714,Kevin Velez,kevin.velez@hotmail.com,906.89
 124,David Meyer,david.meyer@hotmail.com,142.42
 2716,Amy Torres,amy.torres@hotmail.com,311.52
@@ -2719,7 +2719,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 2718,Brandi Mills,brandi.mills@hotmail.com,543.21
 2719,Mariah Johnson,mariah.johnson@gmail.com,228.27
 2720,Joshua Mckenzie,joshua.mckenzie@yahoo.com,249.54
-2721,  Andrew Martinez   ,andrew.martinez@hotmail.com,439.35
+2721,Andrew Martinez,andrew.martinez@hotmail.com,439.35
 2722,Linda Murphy,linda.murphy@yahoo.com,719.84
 2723,Susan Henry,susan.henry@hotmail.com,315.42
 2724,Amanda Gardner,amanda.gardner@gmail.com,955.37
@@ -2761,7 +2761,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 ,,,
 2761,Theresa Moreno,theresa.morenohotmail.com,313.87
 2762,Amber Dudley,amber.dudley@yahoo.com,713.06
-2763,  Ms. Kelly Ramos   ,ms..kelly@gmail.com,881.43
+2763,Ms. Kelly Ramos,ms..kelly@gmail.com,881.43
 2764,Michelle Miles,michelle.miles@hotmail.com,388.77
 2765,Leslie Smith,leslie.smith@gmail.com,665.18
 2766,Mr. Jeffrey Bolton MD,,,441.06
@@ -2822,7 +2822,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 -788,Eric Chang,eric.chang@yahoo.com,75.88
 2822,Alex Dean,alex.dean@hotmail.com,757.21
 2823,Karen Burton,,karen.burton@gmail.com,512.69
-2824,  Christopher Hill   ,christopher.hill@gmail.com,452.52
+2824,Christopher Hill,christopher.hill@gmail.com,452.52
 2825,Wesley Clayton,wesley.clayton@hotmail.com,170.18
 2826,Lisa Barron,lisa.barron@hotmail.com,757.43
 2827,Cheyenne Barajas,cheyenne.barajas@gmail.com,699.72
@@ -2876,7 +2876,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 2875,Marilyn Hansen,marilyn.hansen@gmail.com,603.33
 2876,Brian Rodriguez,brian.rodriguez@gmail.com,582.03
 2877,Thomas Moon,,608.93
-2878,  Karen Green   ,karen.green@hotmail.com,570.53
+2878,Karen Green,karen.green@hotmail.com,570.53
 2879,April Curtis,april.curtis@yahoo.com,780.06
 2880,Mary Cook,mary.cook@gmail.com,254.13
 2881,Sean Reed,sean.reed@yahoo.com,844.25
@@ -2915,7 +2915,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 2914,Sean Reed,sean.reed@hotmail.com,576.59
 2915,John Haney,john.haney@hotmail.com,424.88
 2916,James Murray,james.murray@gmail.com,134.76
-2917,  Chelsea Austin   ,chelsea.austin@hotmail.com,477.56
+2917,Chelsea Austin,chelsea.austin@hotmail.com,477.56
 2918,Casey Frank,casey.frank@gmail.com,491.54
 2919,Kimberly Morales,kimberly.morales@hotmail.com,356.92
 2920,Stephanie Blair,stephanie.blair@hotmail.com,586.29
@@ -3033,7 +3033,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 3032,Paige Carr,paige.carr@gmail.com,580.49
 3033,Charles Foster,charles.foster@yahoo.com,125.71
 3034,William Martinez,william.martinez@hotmail.com,73.14
-3035,  Susan Powell   ,susan.powell@gmail.com,736.7
+3035,Susan Powell,susan.powell@gmail.com,736.7
 3036,Pamela Gibson,pamela.gibson@yahoo.com,82.52
 3037,Timothy Howard,timothy.howard@hotmail.com,521.88
 3038,Michelle Booker,michelle.booker@gmail.com,119.13
@@ -3053,7 +3053,7 @@ nan,Angela Porter,angela.porter@hotmail.com,713.6
 3052,Michael Norris,michael.norris@hotmail.com,497.25
 2322,Dawn Velez,dawn.velez@yahoo.com,927.91
 3054,Melissa Bean,melissa.bean@gmail.com,367.19
-3055,  Michael Boyd   ,michael.boyd@yahoo.com,101.5
+3055,Michael Boyd,michael.boyd@yahoo.com,101.5
 3056,Jeffrey Wade,jeffrey.wade@gmail.com,709.83
 3057,Charlene Walters,charlene.walters@gmail.com,778.51
 3058,Lauren Olson,lauren.olson@hotmail.com,200.05
@@ -3079,7 +3079,7 @@ nan,Tyler Nelson,tyler.nelson@gmail.com,947.37
 3078,Sydney Martinez,sydney.martinez@yahoo.com,208.42
 3079,Timothy Williams,timothy.williams@yahoo.com,257.41
 3080,Elizabeth Haley,elizabeth.haley@gmail.com,26.3
-3081,  Tony Rose   ,tony.rose@yahoo.com,884.35
+3081,Tony Rose,tony.rose@yahoo.com,884.35
 3082,Harold,harold.beasley@yahoo.com,51.34
 3083,Ruben Porter,ruben.porter@hotmail.com,916.93
 3084,Katherine Smith,katherine.smith@gmail.com,169.13
@@ -3123,7 +3123,7 @@ nan,Tyler Nelson,tyler.nelson@gmail.com,947.37
 3122,Melissa Robinson,melissa.robinson@gmail.com,-980.94
 3123,Aaron Blackwell,aaron.blackwell@,549.45
 3124,John Rivera,john.rivera@,134.64
-3125,  Janice Sanchez   ,janice.sanchez@hotmail.com,423.0
+3125,Janice Sanchez,janice.sanchez@hotmail.com,423.0
 3126,Denise Mccullough,denise.mccullough@gmail.com,775.18
 3127,Todd Evans,todd.evans@yahoo.com,477.04
 3128,Nicholas Howell,nicholas.howell@gmail.com,850.46
@@ -3208,7 +3208,7 @@ nan,Tyler Nelson,tyler.nelson@gmail.com,947.37
 3207,Anna Cain,anna.cain@hotmail.com,186.33
 3208,Anthony Meyer,anthony.meyer@hotmail.com,176.85
 3209,Evan Barnes,evan.barnes@yahoo.com,491.8
-3210,  Deanna Williams   ,deanna.williams@gmail.com,804.680
+3210,Deanna Williams,deanna.williams@gmail.com,804.680
 3211,Mary Clark,mary.clark@yahoo.com,842.9
 3212,Charles Sanchez,charles.sanchez@yahoo.com,155.59
 3213,Brandon King,brandon.king@hotmail.com,561.01
@@ -3235,7 +3235,7 @@ nan,Tyler Nelson,tyler.nelson@gmail.com,947.37
 3234,Carrie Martin,carrie.martin@hotmail.com,535.42
 3235,Sarah Henry,sarah.henry@gmail.com,569.75
 3236,Wanda Taylor,wanda.taylor@hotmail.com,607.87
-3237,  Nancy Campbell   ,nancy.campbell@hotmail.com,816.41
+3237,Nancy Campbell,nancy.campbell@hotmail.com,816.41
 3238,Peter Martinez,peter.martinez@yahoo.com,-698.78
 3239,Cheryl Mata,cheryl.mata@hotmail.com,816.38
 3240,Samantha Craig,samantha.craig@gmail.com,537.63
@@ -3255,7 +3255,7 @@ nan,Tyler Nelson,tyler.nelson@gmail.com,947.37
 3254,Jack Martin,jack.martinhotmail.com,286.03
 3255,David Wade,david.wade@gmail.com,18.73
 3256,Jordan Stewart,jordan.stewart@,402.63
-3257,  Joshua Nunez   ,joshua.nunez@hotmail.com,38.66
+3257,Joshua Nunez,joshua.nunez@hotmail.com,38.66
 3258,Dr. Shirley Brown DDS,dr..shirley@hotmail.com,765.75
 3259,Rita Palmer,rita.palmer@,817.75
 3260,Robin Allen,robin.allen@gmail.com,257.94
@@ -3330,7 +3330,7 @@ nan,Steven Gonzalez,steven.gonzalez@yahoo.com,975.9
 3329,Dominique Johnson,dominique.johnson@yahoo.com,575.22
 3330,Paul Russo,paul.russo@hotmail.com,394.61
 3331,Monica Humphrey,monica.humphrey@,908.06
-3332,  Christine Mckinney   ,christine.mckinney@yahoo.com,32.73
+3332,Christine Mckinney,christine.mckinney@yahoo.com,32.73
 3333,James Kelly,james.kelly@gmail.com,389.24
 3334,Michele Conner,michele.conner@yahoo.com,793.84
 3335,Scott Price,scott.price@yahoo.com,520.35
@@ -3464,10 +3464,10 @@ nan,John Robinson,john.robinson@yahoo.com,484.77
 3463,James Mcintosh,james.mcintosh@gmail.com,989.17
 3464,Derek Hanson Jr.,derek.hanson@yahoo.com,290.0
 3465,Terry Hunter,terry.hunter@gmail.com,607.56
-nan,  Deborah Frye   ,deborah.frye@yahoo.com,921.52
+nan,Deborah Frye,deborah.frye@yahoo.com,921.52
 3467,Robert Harris,robert.harris@hotmail.com,104.14
 3468,Kenneth Williamson,kenneth.williamson@hotmail.com,,987.61
-3469,  Daniel Jones   ,daniel.jones@hotmail.com,110.48
+3469,Daniel Jones,daniel.jones@hotmail.com,110.48
 3470,Dawn Jackson,dawn.jackson@yahoo.com,438.2
 nan,John Lane,john.lane@gmail.com,745.89
 3472,,Bethany Brooks,,815.69
@@ -3477,7 +3477,7 @@ nan,John Lane,john.lane@gmail.com,745.89
 3476,Nicole Gregory,nicole.gregory@gmail.com,ABC123
 3477,Becky Madden,becky.madden@hotmail.com,328.29
 3478,Scott Nelson,scott.nelson@yahoo.com,542.9
-3479,  Jonathan Gutierrez   ,jonathan.gutierrez@listen,925.750
+3479,Jonathan Gutierrez,jonathan.gutierrez@listen,925.750
 3480,Austin Braun,austin.braun@hotmail.com,40.51
 3481,Eddie Pierce,eddie.pierce@gmail.com,283.74
 3482,George Kelly,george.kelly@hotmail.com,997.59
@@ -3568,7 +3568,7 @@ nan,Virginia Vasquez,virginia.vasquez@yahoo.com,972.12
 ,,,
 3568,Bryan Brooks,bryan.brooks@hotmail.com,633.73
 3569,Tanner Butler,tanner.butler@hotmail.com,939.71
-3570,  Heather Hammond   ,heather.hammond@yahoo.com,788.87
+3570,Heather Hammond,heather.hammond@yahoo.com,788.87
 3571,Patrick Soto,patrick.soto@yahoo.com,546.74
 3572,Joshua Nelson,joshua.nelson@yahoo.com,806.78
 3573,Blake Douglas,blake.douglas@yahoo.com,593.4
@@ -3615,7 +3615,7 @@ nan,Virginia Vasquez,virginia.vasquez@yahoo.com,972.12
 3614,Dylan Cook,dylan.cook@gmail.com,258.39
 3615,Audrey Bentley,audrey.bentley@yahoo.com,639.09
 ,,,
-3617,  Jimmy Nolan   ,jimmy.nolan@yahoo.com,555.75
+3617,Jimmy Nolan,jimmy.nolan@yahoo.com,555.75
 ,3618,Patricia Martinez,patricia.martinez@yahoo.com,523.48
 3619,Daniel Cole,,409.87
 3620,Timothy Rollins,timothy.rollins@hotmail.com,341.09
@@ -3685,7 +3685,7 @@ nan,Judith Martin,judith.martin@yahoo.com,181.33
 3684,Bryan Santos,bryan.santos@hotmail.com,157.84
 3685,Antonio,antonio.wu@hotmail.com,628.0
 3686,Kyle Valdez,kyle.valdez@,504.84
-3687,  Gary Green   ,gary.green@gmail.com,756.1
+3687,Gary Green,gary.green@gmail.com,756.1
 3688,Teresa Flores,teresa.flores@gmail.com,376.45
 3689,Lori Hopkins,lori.hopkins@gmail.com,397.57
 3690,Darrell Golden,,680.63
@@ -3785,7 +3785,7 @@ nan,Pamela Barnett,pamela.barnett@hotmail.com,730.62
 3784,Matthew Taylor MD,matthew.taylor@gmail.com,961.71
 3785,Melissa Wells,melissa.wells@gmail.com,219.66
 3786,Kylie Johnson,kylie.johnson@yahoo.com,384.57
-2476,  Albert Wallace   ,albert.wallace@hotmail.com,932.13
+2476,Albert Wallace,albert.wallace@hotmail.com,932.13
 3788,Danielle Stephens,danielle.stephens@yahoo.com,512.68
 3789,Ross Hopkins,,268.8
 3790,Julia Ford,julia.ford@gmail.com,764.48
@@ -3809,7 +3809,7 @@ nan,Pamela Barnett,pamela.barnett@hotmail.com,730.62
 3808,Kyle Mccoy,kyle.mccoy@hotmail.com,572.23
 3809,Eddie Davis,eddie.davis@hotmail.com,121.93
 3810,Mary Hicks,mary.hicks@yahoo.com,479.68
-3811,  Adam Mccormick   ,adam.mccormick@hotmail.com,691.06
+3811,Adam Mccormick,adam.mccormick@hotmail.com,691.06
 3812,Andrea Stevens,andrea.stevens@gmail.com,498.65
 3813,Alicia Mitchell,alicia.mitchell@yahoo.com,723.96
 3814,Linda Rodriguez,linda.rodriguez@yahoo.com,480.74
@@ -3895,7 +3895,7 @@ nan,Amber Ramirez DDS,amber.ramirez@hotmail.com,644.08
 3894,Jeremiah Russell,jeremiah.russell@gmail.com,845.70
 3895,Christopher Wolfe,christopher.wolfe@hotmail.com,929.27
 3896,Rachael Dickson,rachael.dickson@gmail.com,854.58
-3897,  Debra Adams   ,debra.adams@yahoo.com,89.53
+3897,Debra Adams,debra.adams@yahoo.com,89.53
 3898,,Jeffrey Murray,jeffrey.murray@yahoo.com,524.61
 3899,Stephanie Garcia,,191.77
 3900,Patricia Singh,patricia.singh@gmail.com,934.5
@@ -4150,7 +4150,7 @@ nan,Heather Estes,heather.estesyahoo.com,860.74
 4149,Shirley James,shirley.james@hotmail.com,693.93
 4150,Becky Coleman,becky.coleman@yahoo.com,712.17
 4151,April Pratt,april.pratt@,150.57
-4152,  Jasmine Juarez   ,jasmine.juarez@gmail.com,519.32
+4152,Jasmine Juarez,jasmine.juarez@gmail.com,519.32
 4153,Lucas Lambert,lucas.lambert@,508.35
 ,,,
 nan,Linda Berry,linda.berry@gmail.com,894.53
@@ -4239,7 +4239,7 @@ nan,Linda Berry,linda.berry@gmail.com,894.53
 4238,Alan Walker,alan.walker@hotmail.com,390.07
 4239,Patricia Levine,patricia.levine@hotmail.com,116.13
 -329,Rebecca Moore,rebecca.moore@yahoo.com,326.29
-4241,  Tony Davis   ,tony.davis@yahoo.com,222.96
+4241,Tony Davis,tony.davis@yahoo.com,222.96
 4242,Laura Gonzalez,laura.gonzalez@yahoo.com,670.06
 4243,Alexander Hunt,alexander.hunt@hotmail.com,314.43
 4244,Mark Gardner,mark.gardner@gmail.com,300.08
@@ -4295,7 +4295,7 @@ nan,Linda Berry,linda.berry@gmail.com,894.53
 4294,Kimberly Chase,kimberly.chase@gmail.com,578.44
 4295,Christopher Martin,christopher.martin@gmail.com,801.42
 4296,Robert Boyd,robert.boyd@yahoo.com,331.76
-4297,,  Robert Smith   ,robert.smith@gmail.com,365.19
+4297,,Robert Smith,robert.smith@gmail.com,365.19
 4298,Mary Bowers,mary.bowers@hotmail.com,613.93
 4299,Stacey Douglas,stacey.douglasyahoo.com,79.51
 4300,Rodney Hernandez,rodney.hernandez@yahoo.com,259.68
@@ -4330,7 +4330,7 @@ nan,Linda Berry,linda.berry@gmail.com,894.53
 ,,,
 4330,Ronald Hall,ronald.hall@gmail.com,917.58
 4331,John Vasquez,john.vasquez@hotmail.com,536.73
-4332,  James Ford   ,,755.82
+4332,James Ford,,755.82
 4333,Courtney Jackson,courtney.jackson@hotmail.com,779.66
 4334,David Jones,david.jones@hotmail.com,929.47
 4335,Daniel Johnson,daniel.johnson@hotmail.com,-985.88
@@ -4397,7 +4397,7 @@ nan,Linda Berry,linda.berry@gmail.com,894.53
 4396,Megan Norman,megan.norman@yahoo.com,467.96
 4397,Felicia Brown DVM,felicia.brown@yahoo.com,166.67
 4398,Christy Jones,christy.jones@yahoo.com,642.5
-4399,  Virginia Hernandez   ,virginia.hernandez@hotmail.com,515.10
+4399,Virginia Hernandez,virginia.hernandez@hotmail.com,515.10
 4400,Veronica Fox,veronica.fox@yahoo.com,658.72
 4401,Thomas Love,thomas.love@hotmail.com,710.69
 4402,Wayne Morris,wayne.morris@gmail.com,607.65
@@ -4594,7 +4594,7 @@ nan,Mary Ryan,mary.ryan@hotmail.com,373.15
 ,,,
 4594,Sheila Scott,sheila.scott@gmail.com,405.19
 ,,,
-4596,  Gail Hardy   ,gail.hardy@hotmail.com,824.82
+4596,Gail Hardy,gail.hardy@hotmail.com,824.82
 4597,Katie Edwards,katie.edwards@gmail.com,475.09
 4598,Ashley Jackson,ashley.jackson@gmail.com,271.83
 4599,Tracey Herring,tracey.herring@yahoo.com,504.0
@@ -4706,7 +4706,7 @@ nan,Nicole Petty,nicole.petty@hotmail.com,690.27
 ,Joshua Garrison,joshua.garrison@hotmail.com,744.5
 4706,Michael Patterson,michael.patterson@hotmail.com,384.94
 4707,Deborah Smith,deborah.smith@yahoo.com,827.56
-4708,  David Craig   ,david.craig@hotmail.com,536.6
+4708,David Craig,david.craig@hotmail.com,536.6
 nan,Karen Ryan,karen.ryan@gmail.com,595.13
 4710,Luis Mitchell,luis.mitchell@hotmail.com,573.84
 4711,Joy White,joy.white@gmail.com,28.54
@@ -4737,7 +4737,7 @@ nan,Karen Ryan,karen.ryan@gmail.com,595.13
 4736,Anthony Lawson,anthony.lawson@hotmail.com,634.76
 4737,Kyle Jones,kyle.jones@hotmail.com,325.81
 4738,Jacqueline Miller,jacqueline.miller@yahoo.com,624.2
-4739,  Thomas Randall   ,thomas.randall@yahoo.com,845.94
+4739,Thomas Randall,thomas.randall@yahoo.com,845.94
 4740,John Sanchez,john.sanchez@hotmail.com,136.09
 4741,Amy Pham,amy.pham@hotmail.com,650.16
 4742,Justin Allen,justin.allen@hotmail.com,115.43
@@ -4782,7 +4782,7 @@ nan,Kathleen Lester,kathleen.lester@yahoo.com,,931.03
 4781,Christopher Watson,christopher.watson@hotmail.com,36.53
 1830,Thomas King,thomas.king@gmail.com,812.6
 ,4783,Deborah Hoffman,deborah.hoffman@hotmail.com,117.75
-4784,  Jessica Henderson   ,jessica.henderson@hotmail.com,ABC123
+4784,Jessica Henderson,jessica.henderson@hotmail.com,ABC123
 4785,Stephanie Peterson,stephanie.peterson@gmail.com,881.49
 4786,Katherine Moore,,580.04
 4787,Brandon Garcia,brandon.garcia@gmail.com,804.27
@@ -4824,7 +4824,7 @@ nan,Kathleen Lester,kathleen.lester@yahoo.com,,931.03
 4823,Carl,carl.rodriguez@hotmail.com,614.6
 4824,Matthew Davis,matthew.davis@gmail.com,665.96
 4825,Sarah Liu,sarah.liu@yahoo.com,653.89
-4826,  Robert Caldwell   ,robert.caldwell@gmail.com,430.29
+4826,Robert Caldwell,robert.caldwell@gmail.com,430.29
 -799,Alicia Reed,,716.12
 ,,,
 4829,Zachary Johnson,zachary.johnson@gmail.com,262.74
@@ -4931,7 +4931,7 @@ nan,Kathleen Lester,kathleen.lester@yahoo.com,,931.03
 4930,Megan Anderson,megan.anderson@gmail.com,412.15
 4931,William Cooper,william.cooper@hotmail.com,,525.66
 ,,,
-4933,  Robin Hall   ,robin.hall@yahoo.com,563.29
+4933,Robin Hall,robin.hall@yahoo.com,563.29
 4934,Susan Lewis,susan.lewis@yahoo.com,239.93
 4935,Nicole Rios,nicole.rios@gmail.com,306.63
 4936,Leslie Hernandez,leslie.hernandez@hotmail.com,22.83
@@ -5030,7 +5030,7 @@ nan,Brittany Thompson,brittany.thompson@hotmail.com,ABC123
 5029,Miss Kristin Torres MD,miss.kristin@yahoo.com,690.26
 5030,Tammy Richardson,tammy.richardson@gmail.com,841.78
 5031,Amanda Simpson,amanda.simpson@gmail.com,609.65
-5032,  Jeremy Gardner   ,jeremy.gardner@hotmail.com,391.43
+5032,Jeremy Gardner,jeremy.gardner@hotmail.com,391.43
 5033,,Christopher Smith,christopher.smith@yahoo.com,415.74
 5034,John Hess,,john.hess@hotmail.com,794.61
 ,,,,
@@ -5191,7 +5191,7 @@ nan,Benjamin Cooper,benjamin.cooper@gmail.com,859.36
 5190,John Ware,john.ware@gmail.com,688.83
 5191,Christian Rose,christian.rose@yahoo.com,667.46
 5192,Katie Morgan,katie.morgan@gmail.com,793.16
-5193,  Michaela Phillips   ,michaela.phillips@yahoo.com,584.63
+5193,Michaela Phillips,michaela.phillips@yahoo.com,584.63
 5194,Robert Lewis,robert.lewis@yahoo.com,393.3
 5195,Christina Duran,christina.duran@gmail.com,808.53
 5196,Rebekah Freeman,rebekah.freeman@gmail.com,60.7
@@ -5232,7 +5232,7 @@ nan,Benjamin Cooper,benjamin.cooper@gmail.com,859.36
 5231,Justin Thompson,justin.thompson@hotmail.com,373.99
 5232,Tony Cox,tony.cox@,954.55
 5233,Nichole Jordan,nichole.jordan@gmail.com,201.88
-5234,  Brett Smith   ,brett.smith@gmail.com,694.41
+5234,Brett Smith,brett.smith@gmail.com,694.41
 5235,Robert House,robert.house@gmail.com,751.16
 5236,Jesus Jennings,jesus.jennings@hotmail.com,558.44
 5237,Melissa Brewer,melissa.brewer@hotmail.com,46.91
@@ -5247,7 +5247,7 @@ nan,Benjamin Cooper,benjamin.cooper@gmail.com,859.36
 5246,James Green,james.green@gmail.com,ABC123
 5247,Lauren Weaver,lauren.weaver@hotmail.com,666.29
 5248,Melissa Jones,,151.48
-5249,  Kim Mcguire   ,kim.mcguire@gmail.com,249.5
+5249,Kim Mcguire,kim.mcguire@gmail.com,249.5
 5250,Marvin,marvin.robbins@yahoo.com,667.42
 5251,James Sanford,james.sanford@gmail.com,42.52
 5252,Christopher Roberts,christopher.roberts@gmail.com,896.07
@@ -5574,7 +5574,7 @@ nan,Donna Allen,donna.allen@yahoo.com,89.78
 5573,Jonathan Fields,jonathan.fields@yahoo.com,321.63
 ,,,
 5575,Julie Poole,julie.poole@yahoo.com,552.61
-5576,  Jeremy Jackson   ,jeremy.jackson@yahoo.com,953.99
+5576,Jeremy Jackson,jeremy.jackson@yahoo.com,953.99
 5577,Samantha Russo,samantha.russo@,303.55
 5578,Julia Scott,julia.scott@hotmail.com,49.45
 5579,Aaron Hernandez,aaron.hernandez@hotmail.com,391.31
@@ -5757,7 +5757,7 @@ nan,Abigail Johnson,abigail.johnson@gmail.com,583.36
 5756,douglas smith,douglas.smith@yahoo.com,311.82
 5757,Miguel Page,miguel.page@yahoo.com,936.61
 5758,Jennifer Bailey,jennifer.bailey@yahoo.com,907.66
-5759,  John Miller   ,john.miller@hotmail.com,619.59
+5759,John Miller,john.miller@hotmail.com,619.59
 5760,Paul Pratt,paul.pratt@gmail.com,677.72
 4692,Jason Taylor,,615.33
 5762,Amanda Cordova,amanda.cordova@hotmail.com,832.55
@@ -5801,7 +5801,7 @@ nan,William Rasmussen,william.rasmussen@gmail.com,217.9
 5800,Kimberly Wallace,kimberly.wallace@hotmail.com,221.02
 5801,Joseph Graham,joseph.graham@gmail.com,25.23
 5802,Robert Alvarado,robert.alvarado@yahoo.com,280.82
-5803,  Eric Rodriguez   ,eric.rodriguez@gmail.com,348.59
+5803,Eric Rodriguez,eric.rodriguez@gmail.com,348.59
 5804,Anthony Benjamin,anthony.benjamin@yahoo.com,428.33
 5805,David Rojas,david.rojas@yahoo.com,736.24
 5806,Richard Grimes,richard.grimes@gmail.com,149.12
@@ -5938,7 +5938,7 @@ nan,Jonathan Daniels,jonathan.daniels@hotmail.com,936.97
 ,,,
 5938,David Chan,david.chan@gmail.com,337.54
 5939,Joshua Love,joshua.love@gmail.com,218.3
-5940,  Franklin Dean   ,franklin.dean@hotmail.com,846.18
+5940,Franklin Dean,franklin.dean@hotmail.com,846.18
 5941,Ryan Cherry,ryan.cherry@gmail.com,576.44
 5942,Sarah Allen,sarah.allen@yahoo.com,644.27
 5943,Michael Kelly,michael.kelly@hotmail.com,579.39
@@ -6025,7 +6025,7 @@ nan,Rebecca Brooks,,381.19
 6024,David Lawrence,david.lawrence@yahoo.com,21.99
 6025,Morgan Orozco,morgan.orozco@yahoo.com,76.54
 6026,Blake Wright,blake.wright@hotmail.com,850.98
-6027,  Maria Diaz   ,maria.diaz@gmail.com,263.46
+6027,Maria Diaz,maria.diaz@gmail.com,263.46
 6028,Samantha Hernandez,samantha.hernandez@hotmail.com,157.71
 6029,David Goodman,david.goodman@gmail.com,519.23
 6030,Matthew Smith,matthew.smith@hotmail.com,734.36
@@ -6075,7 +6075,7 @@ nan,James Butler,james.butler@hotmail.com,483.79
 6074,David Grant,david.grant@gmail.com,911.96
 6075,Timothy Santiago,timothy.santiago@yahoo.com,366.24
 6076,Courtney Diaz,courtney.diaz@gmail.com,994.54
-6077,  James Bowen   ,james.bowen@gmail.com,21.62
+6077,James Bowen,james.bowen@gmail.com,21.62
 6078,pamela hays,pamela.hays@gmail.com,371.32
 6079,Mr. Austin Farrell,mr..austin@gmail.com,210.91
 -137,Christy Edwards,christy.edwards@gmail.com,661.22
@@ -6129,7 +6129,7 @@ nan,Shannon Gordon,shannon.gordon@gmail.com,432.13
 6128,Morgan Cruz,morgan.cruz@hotmail.com,54.99
 6129,Andrew Brown,andrew.brown@gmail.com,839.45
 6130,Karen Patel,karen.patel@yahoo.com,65.46
-6131,  April Odonnell   ,april.odonnell@yahoo.com,187.55
+6131,April Odonnell,april.odonnell@yahoo.com,187.55
 6132,Isaiah Sanchez,isaiah.sanchez@hotmail.com,502.36
 6133,Michelle Roberts,michelle.roberts@gmail.com,38.72
 6134,Stacey Robinson,stacey.robinson@gmail.com,432.33
@@ -6158,7 +6158,7 @@ nan,Shannon Gordon,shannon.gordon@gmail.com,432.13
 6157,Gary Glover,gary.glover@yahoo.com,956.79
 6158,Michelle Nguyen,,427.26
 1820,Patrick Butler,patrick.butler@yahoo.com,372.66
-6160,  Megan Gates   ,megan.gates@hotmail.com,600.21
+6160,Megan Gates,megan.gates@hotmail.com,600.21
 6161,Bradley Ramsey,bradley.ramsey@,407.51
 6162,Kevin Weaver,kevin.weaver@gmail.com,-352.28
 -970,Dylan Burns,dylan.burns@hotmail.com,36.86
@@ -6223,7 +6223,7 @@ nan,Andrew Mcgrath,andrew.mcgrath@gmail.com,843.85
 6222,Jessica Mcknight,jessica.mcknight@gmail.com,349.64
 6223,Scott Garcia,scott.garcia@hotmail.com,813.93
 6224,Yolanda Sullivan,yolanda.sullivan@gmail.com,512.42
-6225,  Matthew Allison   ,matthew.allison@yahoo.com,95.94
+6225,Matthew Allison,matthew.allison@yahoo.com,95.94
 6226,Robert Wilson,robert.wilson@gmail.com,569.05
 6227,Megan Rodriguez,megan.rodriguez@hotmail.com,515.41
 6228,Justin Henderson,justin.henderson@gmail.com,257.23
@@ -6341,7 +6341,7 @@ nan,Charles Walker,charles.walker@yahoo.com,349.47
 6340,Thomas Fowler,thomas.fowler@hotmail.com,802.99
 6341,Susan Wiley,susan.wiley@hotmail.com,604.88
 6342,Lisa Butler,lisa.butler@gmail.com,217.58
-6343,  Thomas Harris   ,thomas.harris@yahoo.com,635.420
+6343,Thomas Harris,thomas.harris@yahoo.com,635.420
 6344,Maria Bauer,maria.bauer@hotmail.com,693.71
 6345,Stephanie Monroe,stephanie.monroe@hotmail.com,,148.52
 6346,Justin Miller,justin.miller@hotmail.com,98.23
@@ -6510,7 +6510,7 @@ nan,Amy Warner,amy.warner@gmail.com,290.57
 6509,John Snyder,john.snyder@hotmail.com,128.58
 6510,Heather Sparks,heather.sparks@hotmail.com,188.75
 6511,David Nichols,david.nichols@gmail.com,771.330
-6512,  Ryan Campos   ,ryan.campos@hotmail.com,991.35
+6512,Ryan Campos,ryan.campos@hotmail.com,991.35
 6513,Edward Robertson,,432.46
 6514,Kristina Reyes,kristina.reyes@hotmail.com,180.93
 ,6515,William Stevenson,william.stevenson@hotmail.com,974.36
@@ -6525,7 +6525,7 @@ nan,Amy Warner,amy.warner@gmail.com,290.57
 6524,Julia Schmidt,julia.schmidt@hotmail.com,363.56
 6525,Teresa Tran,teresa.tran@yahoo.com,447.88
 6526,Marcus Copeland,marcus.copeland@gmail.com,765.93
-6527,  Deborah Alvarez   ,deborah.alvarez@hotmail.com,336.9
+6527,Deborah Alvarez,deborah.alvarez@hotmail.com,336.9
 6528,Gina Johnson,gina.johnson@yahoo.com,486.95
 6529,Joshua Martinez,joshua.martinez@gmail.com,944.15
 6530,Patrick Petty,patrick.petty@yahoo.com,891.66
@@ -6602,7 +6602,7 @@ nan,Jillian Solomon,jillian.solomon@yahoo.com,430.74
 4497,Judy Cruz,judy.cruz@yahoo.com,626.28
 6602,Pamela Williams,pamela.williams@hotmail.com,932.01
 ,,,
-1794,  Michael Booker   ,michael.booker@gmail.com,593.07
+1794,Michael Booker,michael.booker@gmail.com,593.07
 nan,Carmen Quinn,carmen.quinn@hotmail.com,442.83
 6606,Alexis Perez,alexis.perez@hotmail.com,581.54
 6607,Dennis Miles,dennis.miles@yahoo.com,407.27
@@ -6634,7 +6634,7 @@ nan,April Rodriguez,,,800.43
 6633,Kimberly Reed,kimberly.reed@yahoo.com,667.89
 6634,Hannah Nguyen MD,hannah.nguyen@yahoo.com,757.05
 6635,Robert Jimenez,robert.jimenez@hotmail.com,230.28
-6636,  Marcus Vazquez   ,marcus.vazquez@yahoo.com,199.02
+6636,Marcus Vazquez,marcus.vazquez@yahoo.com,199.02
 6637,Jason Bradford,jason.bradford@yahoo.com,919.53
 6638,Diana Johnson,diana.johnson@gmail.com,154.17
 6639,Jennifer Mathews,,251.01
@@ -6647,7 +6647,7 @@ nan,Devon Page,devon.page@gmail.com,974.54
 6646,Drew Klein,drew.klein@yahoo.com,605.12
 6647,Steven Parker,steven.parker@gmail.com,789.48
 6648,Kenneth Brown,kenneth.brown@yahoo.com,974.620
-6649,  Jamie Summers   ,jamie.summers@yahoo.com,,923.74
+6649,Jamie Summers,jamie.summers@yahoo.com,,923.74
 6650,Michael Davis,michael.davis@gmail.com,781.76
 6651,Melissa Waters,melissa.waters@hotmail.com,600.04
 6652,Nicholas Reeves,nicholas.reeves@yahoo.com,383.59
@@ -6724,7 +6724,7 @@ nan,Devon Page,devon.page@gmail.com,974.54
 6723,Cameron Lowery,cameron.lowery@hotmail.com,816.96
 6724,Cynthia Mitchell,cynthia.mitchell@hotmail.com,752.56
 6725,Leonard Garcia,leonard.garcia@hotmail.com,165.15
-6726,  Kevin Woods   ,kevin.woods@gmail.com,974.03
+6726,Kevin Woods,kevin.woods@gmail.com,974.03
 6727,Kevin Morris,kevin.morris@hotmail.com,113.6
 6728,Joanna Ellis,joanna.ellis@hotmail.com,759.35
 6729,Cory Scott,cory.scott@hotmail.com,143.27
@@ -6878,7 +6878,7 @@ nan,,Karen Shea,karen.shea@gmail.com,706.9
 863,Aaron Davis,aaron.davis@hotmail.com,605.03
 6878,Justin Phillips,justin.phillips@hotmail.com,121.04
 6879,Caitlyn Payne,caitlyn.payne@yahoo.com,685.17
-6880,  Stacey Conrad   ,stacey.conrad@yahoo.com,510.92
+6880,Stacey Conrad,stacey.conrad@yahoo.com,510.92
 6881,Steven Hernandez,steven.hernandez@hotmail.com,492.11
 -18,Colleen Johnson,colleen.johnson@hotmail.com,256.66
 6883,Joshua Williams,joshua.williams@hotmail.com,590.19
@@ -6921,7 +6921,7 @@ nan,,Karen Shea,karen.shea@gmail.com,706.9
 6920,James Green,james.green@yahoo.com,291.79
 6921,Andres Perez,andres.perez@yahoo.com,850.64
 6922,Amber Grimes,amber.grimes@yahoo.com,513.17
-6923,  Jesse Fitzgerald   ,jesse.fitzgerald@yahoo.com,509.42
+6923,Jesse Fitzgerald,jesse.fitzgerald@yahoo.com,509.42
 6924,,Justin Butler,,362.750
 6925,Michelle Flores,,459.95
 6926,Kathy Davis,kathy.davis@gmail.com,263.55
@@ -6970,7 +6970,7 @@ nan,Rachel Cook,rachel.cook@hotmail.com,557.83
 6969,James Day,james.day@gmail.com,581.61
 ,Anna Wallace,anna.wallace@gmail.com,501.19
 6971,,Steven Ramirez,steven.ramirez@gmail.com,899.81
-6972,  David Sullivan   ,david.sullivan@gmail.com,62.04
+6972,David Sullivan,david.sullivan@gmail.com,62.04
 6973,Kayla Ross,kayla.ross@hotmail.com,552.53
 6974,Trevor Gonzalez,trevor.gonzalez@yahoo.com,898.4
 6975,Rhonda Rivera,rhonda.rivera@yahoo.com,56.12
@@ -7109,7 +7109,7 @@ nan,Renee Patel,renee.patel@hotmail.com,212.34
 7108,Nathan,nathan.harrington@gmail.com,885.83
 nan,Melissa Bauer,melissa.bauer@gmail.com,,ABC123
 7110,Jessica Brooks,,jessica.brooks@hotmail.com,643.0
-7111,  William Cobb   ,william.cobb@hotmail.com,90.46
+7111,William Cobb,william.cobb@hotmail.com,90.46
 7112,Patricia Reynolds,patricia.reynolds@hotmail.com,441.61
 7113,Douglas Gay,douglas.gay@hotmail.com,393.93
 7114,Ernest Liu,ernest.liu@yahoo.com,747.95
@@ -7143,7 +7143,7 @@ nan,Melissa Bauer,melissa.bauer@gmail.com,,ABC123
 7142,Daniel Hopkins,daniel.hopkins@gmail.com,404.12
 7143,Tammy Higgins,tammy.higgins@yahoo.com,486.72
 7144,Jason Smith,jason.smith@hotmail.com,157.5
-7145,  Jimmy Alvarez   ,jimmy.alvarez@gmail.com,-912.42
+7145,Jimmy Alvarez,jimmy.alvarez@gmail.com,-912.42
 5071,Alan Williams,alan.williams@gmail.com,334.41
 7147,Andrea Garcia,andrea.garcia@gmail.com,,339.16
 7148,Crystal Diaz,crystal.diaz@hotmail.com,150.57
@@ -7191,7 +7191,7 @@ nan,Melissa Bauer,melissa.bauer@gmail.com,,ABC123
 7190,Loretta Leach,loretta.leach@hotmail.com,774.35
 7191,Tiffany Barnes,tiffany.barnes@gmail.com,250.17
 7192,Mark Sanchez,mark.sanchez@yahoo.com,620.19
-7193,  Ronald Grant   ,ronald.granthotmail.com,571.37
+7193,Ronald Grant,ronald.granthotmail.com,571.37
 7194,Michael Ellis,michael.ellis@hotmail.com,49.24
 7195,Lisa Rodriguez,lisa.rodriguez@hotmail.com,916.19
 ,Hannah Thompson,hannah.thompson@gmail.com,256.13
@@ -7224,9 +7224,9 @@ nan,Melissa Bauer,melissa.bauer@gmail.com,,ABC123
 7223,Maria Hamilton,maria.hamilton@hotmail.com,863.1
 ,,,
 ,Joyce Smith,joyce.smith@yahoo.com,873.5
-4964,  Jocelyn Watts   ,jocelyn.watts@hotmail.com,476.63
+4964,Jocelyn Watts,jocelyn.watts@hotmail.com,476.63
 7227,Cesar Spence,cesar.spence@gmail.com,689.07
-7228,  Dr. Brent Nguyen MD   ,dr..brent@hotmail.com,608.76
+7228,Dr. Brent Nguyen MD,dr..brent@hotmail.com,608.76
 7229,Ruth Navarro,ruth.navarro@yahoo.com,576.26
 7230,Nancy May,nancy.may@hotmail.com,56.98
 7231,Adrian Brown,,286.55
@@ -7307,7 +7307,7 @@ nan,Isabella Jackson,isabella.jackson@hotmail.com,469.54
 7306,Rebecca Murphy,rebecca.murphy@yahoo.com,143.91
 7307,Sarah Huerta,sarah.huerta@gmail.com,94.68
 7308,Richard Gonzalez,richard.gonzalez@hotmail.com,294.93
-7309,  Molly Mayo   ,molly.mayo@gmail.com,212.99
+7309,Molly Mayo,molly.mayo@gmail.com,212.99
 7310,Jamie Parks,jamie.parks@gmail.com,275.05
 7311,Todd Allen,todd.allen@gmail.com,766.36
 7312,Raymond Hunter,raymond.hunter@hotmail.com,979.4
@@ -7496,7 +7496,7 @@ nan,Susan Berry,susan.berry@gmail.com,320.64
 7495,Robert Summers,robert.summers@yahoo.com,196.93
 7496,Amy Cherry,amy.cherry@gmail.com,250.82
 7497,Ashley Knight,ashley.knight@gmail.com,730.5
-7498,  Jessica Gilbert   ,jessica.gilbert@yahoo.com,835.45
+7498,Jessica Gilbert,jessica.gilbert@yahoo.com,835.45
 7499,Christopher Cole,christopher.cole@gmail.com,307.25
 7500,Rachel Simpson,,-208.34
 7501,Vincent Wells,vincent.wells@gmail.com,903.0
@@ -7542,7 +7542,7 @@ nan,Susan Berry,susan.berry@gmail.com,320.64
 7541,Cole Miller,cole.miller@yahoo.com,469.13
 7542,Norma Malone,norma.malone@yahoo.com,349.85
 7543,Stephanie Porter,stephanie.porter@hotmail.com,857.73
-nan,  Barbara Miller   ,,555.9
+nan,Barbara Miller,,555.9
 7545,Elizabeth Whitney,elizabeth.whitney@hotmail.com,90.69
 7546,Lisa Lee,lisa.lee@yahoo.com,989.55
 7547,Tony Lowery,tony.lowery@hotmail.com,161.81
@@ -7578,7 +7578,7 @@ nan,  Barbara Miller   ,,555.9
 7577,Michelle Davis,michelle.davis@yahoo.com,820.25
 7578,Luis Booth,luis.booth@gmail.com,268.7
 7579,Angel Kelly,angel.kelly@gmail.com,334.32
-7580,,  Melissa Hicks   ,melissa.hicks@yahoo.com,218.83
+7580,,Melissa Hicks,melissa.hicks@yahoo.com,218.83
 7581,Dana Little,dana.little@yahoo.com,164.4
 7582,Evan Lopez,evan.lopez@yahoo.com,158.22
 7583,Timothy Lane,timothy.lane@hotmail.com,933.56
@@ -7594,7 +7594,7 @@ nan,  Barbara Miller   ,,555.9
 ,Zachary Navarro,zachary.navarro@hotmail.com,741.69
 7594,Melissa Patrick,melissa.patrick@yahoo.com,400.82
 7595,Christina Farmer,christina.farmer@yahoo.com,596.02
-7596,  Thomas Brennan   ,thomas.brennan@hotmail.com,183.64
+7596,Thomas Brennan,thomas.brennan@hotmail.com,183.64
 7597,Frederick Underwood,frederick.underwood@hotmail.com,508.0
 7598,Alexa Myers,alexa.myers@yahoo.com,140.67
 -789,Thomas Roth,,441.01
@@ -7628,7 +7628,7 @@ nan,  Barbara Miller   ,,555.9
 7627,Philip Phillips,philip.phillips@yahoo.com,896.84
 7628,Ana Robbins,ana.robbins@gmail.com,536.74
 7629,Michael Wilson,michael.wilson@gmail.com,546.16
-7630,  Melissa English   ,melissa.english@hotmail.com,980.64
+7630,Melissa English,melissa.english@hotmail.com,980.64
 7631,Robert Sanchez,robert.sanchez@yahoo.com,212.58
 7632,Cynthia Anderson,cynthia.anderson@yahoo.com,176.31
 7633,Jon Cabrera,jon.cabrera@hotmail.com,238.51
@@ -7808,7 +7808,7 @@ nan,  Barbara Miller   ,,555.9
 7807,Kimberly Evans,kimberly.evans@gmail.com,298.35
 7808,Megan Williams,megan.williams@hotmail.com,-17.09
 7809,Ricky Johnson,ricky.johnson@hotmail.com,996.5
-7810,  Brenda Lucero   ,brenda.lucero@yahoo.com,74.07
+7810,Brenda Lucero,brenda.lucero@yahoo.com,74.07
 7811,Nathaniel Parker,nathaniel.parker@gmail.com,960.78
 7812,Robert Moody,robert.moody@yahoo.com,812.47
 7813,Jason Cruz,jason.cruz@yahoo.com,878.52
@@ -7843,7 +7843,7 @@ nan,Nathaniel Duncan,nathaniel.duncan@gmail.com,501.87
 7842,Nicole Wright,nicole.wright@yahoo.com,185.05
 7843,,Robert Mullen,robert.mullen@yahoo.com,488.78
 7844,Jonathan Kent,jonathan.kent@yahoo.com,941.91
-7845,  Hannah Stewart   ,hannah.stewart@gmail.com,640.9
+7845,Hannah Stewart,hannah.stewart@gmail.com,640.9
 ,,,
 7847,Angelica Gray,angelica.gray@hotmail.com,819.57
 7848,Tim Anderson,tim.anderson@hotmail.com,143.53
@@ -7991,7 +7991,7 @@ nan,Jason Trujillo,jason.trujillo@yahoo.com,107.66
 7990,Alexander Davis,alexander.davis@yahoo.com,472.54
 7991,Shawn Hoffman,shawn.hoffman@gmail.com,454.96
 7992,Mario Hernandez,mario.hernandez@gmail.com,105.16
-7993,  Ann Knox   ,ann.knox@hotmail.com,169.16
+7993,Ann Knox,ann.knox@hotmail.com,169.16
 7994,Andre Gamble,andre.gamble@yahoo.com,340.78
 7995,Daniel Griffin,daniel.griffin@yahoo.com,195.13
 4537,Jeffrey Howell,,,403.5
@@ -8159,7 +8159,7 @@ nan,Jason Trujillo,jason.trujillo@yahoo.com,107.66
 8158,Carl Adkins,carl.adkins@gmail.com,764.33
 8159,Steven Scott,steven.scott@yahoo.com,761.56
 8160,Cassandra Martinez,cassandra.martinez@gmail.com,565.22
-8161,  Lori Ochoa   ,,991.42
+8161,Lori Ochoa,,991.42
 ,,,
 ,8163,Sherry Hill,sherry.hill@gmail.com,52.14
 8164,Troy Wallace,troy.wallace@hotmail.com,169.98
@@ -8171,7 +8171,7 @@ nan,Jason Trujillo,jason.trujillo@yahoo.com,107.66
 8170,Kristina Arnold,kristina.arnold@gmail.com,609.74
 ,,,
 8172,Kaitlyn Baldwin,,979.52
-8173,  Kathryn Fisher   ,kathryn.fisher@hotmail.com,290.16
+8173,Kathryn Fisher,kathryn.fisher@hotmail.com,290.16
 8174,Austin Nelson,austin.nelson@gmail.com,710.12
 8175,Michelle Wilson,michelle.wilson@gmail.com,894.02
 8176,Kathryn King,kathryn.king@yahoo.com,-929.18
@@ -8215,7 +8215,7 @@ nan,Jason Trujillo,jason.trujillo@yahoo.com,107.66
 nan,Michael Grant,michael.grant@hotmail.com,803.87
 8215,Mary Vasquez,mary.vasquez@hotmail.com,ABC123
 8216,Cindy Ruiz,cindy.ruiz@hotmail.com,278.88
-8217,  Laurie Graves   ,laurie.graves@hotmail.com,788.34
+8217,Laurie Graves,laurie.graves@hotmail.com,788.34
 8218,Anna Ramos,anna.ramos@hotmail.com,247.65
 8219,Katelyn Powell,katelyn.powell@yahoo.com,448.12
 8220,Kendra Mckenzie,kendra.mckenzie@yahoo.com,274.01
@@ -8650,7 +8650,7 @@ nan,Lisa Barnes,lisa.barnes@gmail.com,110.23
 8649,Paul,paul.fischer@hotmail.com,480.08
 8650,Amanda Miller,amanda.miller@hotmail.com,103.04
 8651,David Tucker,david.tucker@gmail.com,772.9
-8652,  Kimberly Ramirez   ,kimberly.ramirez@hotmail.com,47.51
+8652,Kimberly Ramirez,kimberly.ramirez@hotmail.com,47.51
 8653,Loretta Vincent,loretta.vincent@gmail.com,582.83
 8654,James Watkins,james.watkins@yahoo.com,949.44
 8655,William Rogers,,william.rogers@gmail.com,592.8
@@ -8660,7 +8660,7 @@ nan,Lisa Barnes,lisa.barnes@gmail.com,110.23
 8659,Catherine Cole,catherine.cole@yahoo.com,953.59
 ,,,
 8661,Chase Smith,chase.smith@yahoo.com,838.52
-8662,  Dorothy Lutz   ,dorothy.lutz@yahoo.com,647.36
+8662,Dorothy Lutz,dorothy.lutz@yahoo.com,647.36
 8663,Antonio Bailey,antonio.bailey@yahoo.com,25.23
 8664,Renee Mason,renee.mason@gmail.com,110.81
 8665,Heather Allen,heather.allen@gmail.com,487.95
@@ -8796,7 +8796,7 @@ nan,Stacy Sexton,stacy.sexton@yahoo.com,917.32
 8795,Jason Guerrero,jason.guerrero@yahoo.com,683.32
 8796,Jessica Lopez,jessica.lopez@yahoo.com,596.46
 8797,Darren Anderson,darren.andersonhotmail.com,109.62
-8798,  Kristin Wall   ,kristin.wall@yahoo.com,698.89
+8798,Kristin Wall,kristin.wall@yahoo.com,698.89
 8799,Sandy Thomas,sandy.thomas@gmail.com,423.19
 ,,,
 8801,Daniel Andrews,daniel.andrews@gmail.com,199.86
@@ -8868,7 +8868,7 @@ nan,Stacy Sexton,stacy.sexton@yahoo.com,917.32
 8867,Justin Jones,justin.jones@hotmail.com,557.7
 8868,Gerald Neal,gerald.neal@gmail.com,172.56
 8869,Joseph Williams,joseph.williams@hotmail.com,134.81
-8870,  Terrance Parker   ,terrance.parker@gmail.com,972.33
+8870,Terrance Parker,terrance.parker@gmail.com,972.33
 8871,Dr. Whitney Carroll,dr..whitney@yahoo.com,648.7
 8872,Marie Lee,marie.lee@yahoo.com,925.24
 8873,David Diaz,david.diaz@gmail.com,97.54
@@ -8948,7 +8948,7 @@ nan,Clifford Maxwell,clifford.maxwell@yahoo.com,760.45
 8947,Elizabeth Weber,,elizabeth.weber@hotmail.com,344.22
 8948,Ashley Lawson,ashley.lawson@yahoo.com,136.33
 ,,,
-8950,  Kevin Reed   ,kevin.reed@gmail.com,513.87
+8950,Kevin Reed,kevin.reed@gmail.com,513.87
 8951,Ian Bond,ian.bond@hotmail.com,645.75
 8952,John Reid,john.reid@yahoo.com,403.09
 8953,Carolyn Gross,carolyn.gross@gmail.com,497.82
@@ -9015,7 +9015,7 @@ nan,Kelly Larsen,kelly.larsen@yahoo.com,705.58
 9014,Jeremy Jimenez,jeremy.jimenez@hotmail.com,467.1
 9015,Madison Grant,,329.43
 9016,Kevin Cox,kevin.cox@yahoo.com,788.23
-9017,  Kimberly Jones   ,kimberly.jones@hotmail.com,387.5
+9017,Kimberly Jones,kimberly.jones@hotmail.com,387.5
 9018,Laura Freeman,laura.freeman@yahoo.com,702.43
 9019,Andrea Phillips,andrea.phillips@hotmail.com,37.24
 9020,Brett Salas,brett.salas@hotmail.com,450.21
@@ -9142,7 +9142,7 @@ nan,Kyle Crawford,kyle.crawford@gmail.com,488.5
 9141,Tracy Johnson,tracy.johnson@hotmail.com,435.01
 9142,Jose Mcmahon,jose.mcmahon@hotmail.com,244.51
 ,,,
-9144,  Tracy Zimmerman   ,tracy.zimmerman@yahoo.com,343.86
+9144,Tracy Zimmerman,tracy.zimmerman@yahoo.com,343.86
 9145,Jonathan Sanchez,jonathan.sanchez@hotmail.com,967.3
 9146,Stephanie Hansen,stephanie.hansen@gmail.com,157.3
 9147,,Richard Johnston,richard.johnston@yahoo.com,105.61
@@ -9243,7 +9243,7 @@ nan,Danielle Harris,danielle.harris@hotmail.com,188.53
 9242,Tony Short,tony.short@gmail.com,909.7
 9243,Charles Smith,charles.smith@gmail.com,198.49
 9244,Adam Valdez,adam.valdez@yahoo.com,32.37
-9245,  David Peterson   ,david.peterson@hotmail.com,48.49
+9245,David Peterson,david.peterson@hotmail.com,48.49
 9246,Edward Smith,edward.smith@yahoo.com,534.54
 9247,James Brown,james.brown@gmail.com,557.07
 9248,Debbie Carroll,debbie.carroll@yahoo.com,440.4
@@ -9336,7 +9336,7 @@ nan,James Perez,james.perez@hotmail.com,129.1
 9335,Andrew Hill,andrew.hill@gmail.com,320.28
 9336,Amy Young,amy.young@yahoo.com,932.79
 9337,Erin Smith,erin.smith@hotmail.com,240.95
-9338,  Mrs. Emily Thomas   ,mrs..emily@hotmail.com,99.37
+9338,Mrs. Emily Thomas,mrs..emily@hotmail.com,99.37
 9339,Laura Bishop,laura.bishop@gmail.com,924.48
 9340,Rebecca Kelley,rebecca.kelley@gmail.com,118.09
 9341,Tara Russell,tara.russell@yahoo.com,296.6
@@ -9349,7 +9349,7 @@ nan,James Perez,james.perez@hotmail.com,129.1
 9348,Brandon Carlson,brandon.carlson@hotmail.com,826.56
 9349,Sabrina Rivera,sabrina.rivera@yahoo.com,ABC123
 9350,Rebecca Martinez,rebecca.martinez@yahoo.com,866.46
-9351,  Deborah Patterson   ,deborah.patterson@yahoo.com,ABC123
+9351,Deborah Patterson,deborah.patterson@yahoo.com,ABC123
 9352,Lindsay Webb,,678.45
 9353,Tyler Lee,tyler.lee@gmail.com,671.98
 9354,Jennifer,jennifer.brown@yahoo.com,ABC123
@@ -9362,7 +9362,7 @@ nan,James Perez,james.perez@hotmail.com,129.1
 9361,Frank Stafford,frank.stafford@hotmail.com,412.56
 9362,Molly Douglas,molly.douglas@gmail.com,431.42
 9363,Luis Ewing,luis.ewing@gmail.com,45.81
-9364,  John Graham   ,john.graham@yahoo.com,945.53
+9364,John Graham,john.graham@yahoo.com,945.53
 9365,Allison Poole,allison.poole@gmail.com,ABC123
 9366,Alan Terrell,alan.terrell@,222.95
 9367,Courtney Warner,courtney.warner@yahoo.com,146.93
@@ -9417,12 +9417,12 @@ nan,James Perez,james.perez@hotmail.com,129.1
 9416,Christina Clay,christina.clay@hotmail.com,639.28
 9417,Robert King,robert.king@yahoo.com,578.33
 ,,,
-9419,  Brandon Hutchinson   ,brandon.hutchinson@gmail.com,771.53
+9419,Brandon Hutchinson,brandon.hutchinson@gmail.com,771.53
 9420,Melissa Moss,melissa.moss@gmail.com,874.24
 9421,Matthew Parsons,matthew.parsons@yahoo.com,415.67
 9422,Daniel Nguyen,daniel.nguyen@yahoo.com,279.46
 9423,Jillian Jones,jillian.jones@gmail.com,673.81
-9424,  Kayla Kim   ,kayla.kim@gmail.com,434.26
+9424,Kayla Kim,kayla.kim@gmail.com,434.26
 9425,Mary Conner,mary.conner@gmail.com,931.57
 9426,Gregory Hernandez,gregory.hernandez@yahoo.com,946.81
 9427,Tiffany Murphy,tiffany.murphy@gmail.com,137.4
@@ -9557,7 +9557,7 @@ nan,James Perez,james.perez@hotmail.com,129.1
 9556,brian johnston,brian.johnston@gmail.com,545.84
 ,,,
 9558,Ann Goodman,ann.goodman@yahoo.com,187.27
-9559,  Jonathan Mcdonald   ,jonathan.mcdonald@gmail.com,276.71
+9559,Jonathan Mcdonald,jonathan.mcdonald@gmail.com,276.71
 9560,Amber Davis,amber.davis@yahoo.com,243.98
 9561,Dr. Jill Roy,dr..jill@hotmail.com,722.84
 9562,Steven Garcia,steven.garcia@hotmail.com,396.19
@@ -9602,7 +9602,7 @@ nan,Debra Baker,debra.baker@yahoo.com,536.04
 9601,Sean Weber,sean.weber@gmail.com,101.67
 9602,Carla Crawford,carla.crawford@hotmail.com,853.27
 9603,Charles Mitchell,charles.mitchell@how,960.89
-9604,  Donald Clark   ,donald.clark@gmail.com,974.39
+9604,Donald Clark,donald.clark@gmail.com,974.39
 9605,Mariah Smith,mariah.smith@yahoo.com,88.36
 9606,Paula Khan,paula.khan@gmail.com,74.51
 9607,Randy Cobb,,31.68
@@ -9753,7 +9753,7 @@ nan,Adam Johnson,adam.johnson@gmail.com,657.78
 9752,Justin Dominguez,justin.dominguez@hotmail.com,45.11
 9753,Edward Jackson,,910.93
 9754,George King,george.king@hotmail.com,144.140
-9755,  Zachary Black   ,zachary.black@yahoo.com,285.52
+9755,Zachary Black,zachary.black@yahoo.com,285.52
 9756,Nichole Brown,nichole.brown@gmail.com,328.53
 9757,Gregory Reyes,gregory.reyes@gmail.com,930.72
 9758,Dennis Sanders,dennis.sanders@yahoo.com,484.52
@@ -9791,7 +9791,7 @@ nan,Adam Johnson,adam.johnson@gmail.com,657.78
 9790,Melanie Sherman,melanie.sherman@hotmail.com,84.43
 9791,Jeff Butler,jeff.butler@tonight,247.96
 9792,Adam Atkins,adam.atkins@gmail.com,488.49
-9793,  Tracy Garcia   ,,tracy.garcia@yahoo.com,885.32
+9793,Tracy Garcia,,tracy.garcia@yahoo.com,885.32
 9794,Ryan Collier,ryan.collier@,164.45
 9795,Dawn Rodriguez,dawn.rodriguez@hotmail.com,78.79
 9796,Elizabeth Logan,elizabeth.logan@yahoo.com,611.41
@@ -9804,14 +9804,14 @@ nan,Alicia Becker,alicia.becker@gmail.com,290.98
 9803,Shelly Whitehead,shelly.whitehead@yahoo.com,741.03
 9804,Christopher,christopher.wolf@hotmail.com,125.82
 9805,Jonathon Ball,jonathon.ball@yahoo.com,677.39
-9806,  Kevin Gordon   ,kevin.gordon@hotmail.com,795.97
+9806,Kevin Gordon,kevin.gordon@hotmail.com,795.97
 9807,Brian Cook,brian.cook@hotmail.com,414.92
 9808,Jason Hobbs,jason.hobbs@gmail.com,460.63
 9809,Arthur Stephens,arthur.stephens@yahoo.com,118.77
 9810,Linda Anderson,linda.anderson@gmail.com,451.42
 9811,Renee Irwin,renee.irwin@hotmail.com,897.57
 9812,Catherine Parsons,catherine.parsons@yahoo.com,67.8
-9813,  Summer Garrett   ,summer.garrett@yahoo.com,531.49
+9813,Summer Garrett,summer.garrett@yahoo.com,531.49
 9814,Charles Gardner,charles.gardner@hotmail.com,295.99
 9815,Jennifer Hinton,jennifer.hinton@,518.88
 9816,alejandra miller,alejandra.miller@yahoo.com,902.59
@@ -9943,7 +9943,7 @@ nan,Alicia Becker,alicia.becker@gmail.com,290.98
 9942,Paige Riley,paige.riley@yahoo.com,464.18
 9943,Daniel Barrera,daniel.barrera@yahoo.com,858.79
 9944,Nathan Jones,nathan.jones@yahoo.com,967.63
-9945,  Shelley Johnson   ,shelley.johnson@hotmail.com,441.57
+9945,Shelley Johnson,shelley.johnson@hotmail.com,441.57
 9946,Teresa Reyes,teresa.reyes@yahoo.com,983.87
 9947,James Monroe,james.monroe@gmail.com,548.68
 9948,Lisa Wright,lisa.wright@hotmail.com,359.72
@@ -9981,7 +9981,7 @@ nan,Alicia Becker,alicia.becker@gmail.com,290.98
 9980,Kathryn Palmer,kathryn.palmer@yahoo.com,876.98
 9981,James Hall,james.hall@gmail.com,423.34
 9982,Jonathan Graham,jonathan.graham@hotmail.com,,796.94
-9983,  Betty Gallegos   ,betty.gallegos@hotmail.com,819.16
+9983,Betty Gallegos,betty.gallegos@hotmail.com,819.16
 ,Michelle Salazar,michelle.salazar@hotmail.com,370.22
 9985,Linda Schneider,,785.43
 9986,Omar Beck,omar.beck@hotmail.com,50.0
@@ -9999,3 +9999,4 @@ nan,Alicia Becker,alicia.becker@gmail.com,290.98
 9998,Rita Daniels,rita.daniels@gmail.com,982.48
 9999,Linda White,linda.white@hotmail.com,510.38
 10000,Leslie Smith,leslie.smith@hotmail.com,291.44
+
