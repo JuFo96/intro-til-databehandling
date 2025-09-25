@@ -1,5 +1,7 @@
 # Python Introduction at Specialisterne Academy
-The repository contains four Python assignments demonstrating file handling, data wrangling, and visualization skills with clean, well-documented code. The project is described in depth in the [project description](./python-intro.pdf)
+The repository contains four Python assignments demonstrating file handling, data wrangling, and visualization skills with clean, well-documented code. The project is described in depth in the [project description](./python-intro.pdf). 
+
+My reflections about the project can be found [here](./reflections.md) (in danish)
 ## Description
 Each script corresponds to one part of the assignment and is structured as follows
 ### Scripts
