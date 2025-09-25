@@ -70,7 +70,7 @@ def plot_regional_prices(regional_prices: pd.Series, config: Config) -> None:
     plt.bar(regional_prices.index, regional_prices.values)
     plt.title("Average Housing Price by Region")
     plt.xlabel("Region")
-    plt.ylabel("Average Price")
+    plt.ylabel("Average Price [DKK]")
     plt.tight_layout()
     plt.show()
 
