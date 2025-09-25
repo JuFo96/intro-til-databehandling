@@ -12,7 +12,7 @@ Each script corresponds to one part of the assignment and is structured as follo
 - `Delopgave_4/plots.ipynb` - Similar to `intro_pandas.py` with results shown inline in a jupyter notebook
 
 ### Output
-- `intro_to_python.py` - prints results to the console
+- `intro_to_python.py` - prints results to the console, if --wordcloud flag is chosen an image is saved to `plots/`
 - `logs/` - contains the default output of `logfile_analysis.py` and `error_handling.py`
 - `plots/` - contains the default output of `intro_pandas.py`
 
@@ -44,9 +44,9 @@ pip install -r requirements.txt
 ## Running the program
 The scripts accept a couple of optional command line arguments to modify their behaviour
 ```bash
-uv run Delopgave_1/intro_to_python.py --count --input Data/Navneliste.txt
+uv run Delopgave_1/intro_to_python.py --count --input ../Data/Navneliste.txt
 ```
-prints the count of each letter in the file "Data/Navneliste.txt"
+prints the count of each letter in the file "Data/Navneliste.txt", note that the path is relative to the script and not the location of the shell executing it.
 
 
 ### Command line arguments

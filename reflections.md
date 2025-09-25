@@ -8,7 +8,7 @@ Jeg har ikke arbejdet med følgende biblioteker før
 - pathlib 
 - dataclasses
 
-De er derfor også implementeret lidt forskelligt i de fire filer, da jeg fik mere erfaring med dem undervejs. Jeg er usikker på "best practises" i forhold til opbevaring af bruger input, jeg endte med at benytte dataclasses i de sidste to opgaver og laver et nyt objekt efter at have hentet bruger input
+De er derfor også implementeret lidt forskelligt i de fire filer, da jeg fik mere erfaring med dem undervejs. Jeg er usikker på "best practises" i forhold til opbevaring af bruger input, jeg endte med at benytte dataclasses i de sidste to opgaver og laver et nyt objekt efter at have hentet bruger input. Derudover er jeg også lidt usikker på best practises i forhold til fil stier. Jeg tillader brugeren at anvende seperate input filer, men de fil stier er relativ til scriptet og ikke til lokationen af den shell der eksekverer scriptet.
 
 ### Dokumentation
 Jeg er usikker på hvad der forventes af docstrings, jeg prøvede at følge googles format, det føltes dog nogen gange overkill for simple funktioner og gjorde filen mindre overskuelig. Jeg har prøvet at minimere brugen af kommentarer og erstatte dem med variable navne hvor det gav mening.

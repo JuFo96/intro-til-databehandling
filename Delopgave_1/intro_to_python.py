@@ -1,7 +1,7 @@
 from pathlib import Path
 import argparse
 import os
-
+from wordcloud import WordCloud
 
 def read_names(filepath: Path) -> list[str]:
     """Reads a file containing names separated by commas and returns a list of names.
@@ -75,6 +75,7 @@ def get_path(filepath: str) -> Path:
     
     
 def main():
+    default_data_path = get_path("../Data/Navneliste.txt")
     parser = argparse.ArgumentParser(description="Process names from a file")
     parser.add_argument("-c", "--count", action="store_true", 
                        help="show character count")
@@ -82,23 +83,35 @@ def main():
                        help="show names sorted alphabetically")
     parser.add_argument("-l", "--length", action="store_true", 
                        help="show names sorted by length")
-    parser.add_argument("-f", "--file", type=str, default="../Data/Navneliste.txt",
+    parser.add_argument("-i", "--input", type=str, default=f"{default_data_path}",
                        help="path to the file containing names")
+    parser.add_argument("--wordcloud", action="store_true",
+                       help="generate a wordcloud of the letter frequencies in the names")
     
     # Extract commandline arguments as booleans
     args = parser.parse_args()
     
     try:
-        data_path = get_path(args.file)
+        data_path = get_path(args.input)
         list_of_names = read_names(data_path)
+
+        if args.wordcloud:
+            wordcloud = WordCloud(width=800, height=400)
+            letter_frequency = count_letters_in_names(list_of_names)
+            wordcloud.generate_from_frequencies(letter_frequency)
+            output_path = get_path("../plots/wordcloud.png")
+            wordcloud.to_file(output_path)
+            print(f"Wordcloud saved to {output_path}")
 
         if args.count:
             print("Number of occurences of alphabetical characters")
-            sorted_dict = count_letters_in_names(sorted(list_of_names))
-            print(sorted_dict)
+            letter_frequency = count_letters_in_names(sorted(list_of_names))
+            print(letter_frequency)
+
         if args.alphabetical:
             print("List of names sorted alphabetically")
             print(sorted(list_of_names))
+
         if args.length:
             print("List of names sorted by length")
             print(sorted(list_of_names, key=len))
