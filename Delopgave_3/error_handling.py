@@ -124,8 +124,8 @@ def setup_parser(config: Config) -> argparse.ArgumentParser:
         An argparse.ArgumentParser object with the configured arguments.
     """
     parser = argparse.ArgumentParser(description="File Reader for Data Migration")
-    parser.add_argument("-i", "--input-file", type=str, default=config.input_file, help="(default: {config.input_file})")
-    parser.add_argument("-o", "--output-file", type=str, default=config.output_file, help="(default: {config.output_file})")
+    parser.add_argument("-i", "--input-file", type=str, default=config.input_file, help=f"(default: {config.input_file})")
+    parser.add_argument("-o", "--output-file-name", type=str, default=config.output_file, help=f"(default: {config.output_file})")
     parser.add_argument("-d", "--drop-rows", action="store_true", help="drops rows containing invalid ids and rows containing empty values") 
     parser.add_argument("-v", "--verbose", action="store_true", help="prints contents of the csv to the terminal")
     return parser
