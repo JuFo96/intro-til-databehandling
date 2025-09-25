@@ -1,14 +1,17 @@
 # Python Introduction at Specialisterne Academy
-The repository contains four Python assignments demonstrating file handling, data wrangling, and visualization skills with clean, well-documented code.
-
+The repository contains four Python assignments demonstrating file handling, data wrangling, and visualization skills with clean, well-documented code. The project is described in depth in the [project description](./python-intro.pdf)
 ## Description
-The repository contains 4 scripts corresponding to the four assignments given in the [project description](./python-intro.pdf)
-
+Each script corresponds to one part of the assignment and is structured as follows
+### Scripts
 - `Delopgave_1/intro_to_python.py` - File reading
 - `Delopgave_2/logfile_analysis.py` - File parsing and writing  
 - `Delopgave_3/error_handling.py` - Error handling
 - `Delopgave_4/intro_pandas.py` - Data wrangling and visualisation
- 
+
+### Output
+- `intro_to_python.py` - prints results to the console
+- `logs/` - contains the default output of `logfile_analysis.py` and `error_handling.py`
+- `plots/` - contains the default output of `intro_pandas.py`
 
 ## Getting Started
 
@@ -43,25 +46,11 @@ uv run Delopgave_1/intro_to_python.py --count --input Data/Navneliste.txt
 prints the count of each letter in the file "Data/Navneliste.txt"
 
 
-### Command line arguements
+### Command line arguments
 Each script can be supplied with the --help flag
 ```bash
 uv run Delopgave_3/error_handling.py --help
 ```
-which gives the following output
-```console
-usage: error_handling.py [-h] [-i INPUT_FILE] [-o OUTPUT_FILE_NAME] [-d] [-v]
-
-File Reader for Data Migration
-
-options:
-  -h, --help            show this help message and exit
-  -i, --input-file INPUT_FILE
-                        (default: ../Data/source_data.csv)
-  -o, --output-file-name OUTPUT_FILE_NAME
-                        (default: output_data.csv)
-  -d, --drop-rows       drops rows containing invalid ids and rows containing empty values
-  -v, --verbose         prints contents of the csv to the terminal
-```
+which gives will show the available command line arguments.
 ## Author
 Julius Foverskov: julius.foverskov@specialisterne.dk
