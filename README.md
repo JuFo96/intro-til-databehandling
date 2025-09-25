@@ -9,6 +9,7 @@ Each script corresponds to one part of the assignment and is structured as follo
 - `Delopgave_2/logfile_analysis.py` - File parsing and writing  
 - `Delopgave_3/error_handling.py` - Error handling
 - `Delopgave_4/intro_pandas.py` - Data wrangling and visualisation
+- `Delopgave_4/plots.ipynb` - Similar to `intro_pandas.py` with results shown inline in a jupyter notebook
 
 ### Output
 - `intro_to_python.py` - prints results to the console
@@ -21,7 +22,7 @@ Each script corresponds to one part of the assignment and is structured as follo
 - Python >= 3.10
 - matplotlib >= 3.10.6
 - pandas >= 2.3.2
-
+- ipykernel v6.30.1 (optional for jupyter notebooks)
 
 ### Installing
 The project can be cloned from github with the following command.
