@@ -98,7 +98,7 @@ def main() -> None:
     args = parser.parse_args()
 
     try:
-        file_path = args.input_file
+        file_path = get_path(args.input_file)
         df = pd.read_csv(file_path)
 
         regional_prices = df.groupby("region")["purchase_price"].mean()
