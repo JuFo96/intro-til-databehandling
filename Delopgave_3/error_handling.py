@@ -8,7 +8,7 @@ from dataclasses import dataclass
 class Config:
     input_file: str = "../Data/source_data.csv"
     logs_dir: str = "../logs/Delopgave_3"
-    output_file: str = "output_data.csv"
+    output_file_name: str = "output_data.csv"
     drop_rows: bool = False
     verbose: bool = False
 
@@ -45,6 +45,7 @@ def read_csv(filepath: Path) -> list[list[str]]:
 
     return file_contents
 
+
 def drop_empty_rows(data: list[list[str]]) -> list[list[str]]:
     """Removes rows that contains any empty strings
     
@@ -61,6 +62,7 @@ def drop_empty_rows(data: list[list[str]]) -> list[list[str]]:
         raise ValueError(f"Data can't be empty")
     data = [row for row in data if "" not in row]
     return data
+
 
 def drop_invalid_id(data: list[list[str]]) -> list[list[str]]:
     """Removes rows where the first element is either negative or a nan value, the function skips the first row of data.
@@ -81,6 +83,7 @@ def drop_invalid_id(data: list[list[str]]) -> list[list[str]]:
     data = [row for row in data[1:] if row[0].isdigit()]
     return data
 
+
 def write_csv(data: list[list[str]], file_output_name) -> None:
     """Writes a list of lists to a csv file.
     
@@ -94,9 +97,8 @@ def write_csv(data: list[list[str]], file_output_name) -> None:
     # Checks if there is a "logs" directory in the project root directory, if not it creates one
     logs_dir = get_path(Config.logs_dir)
     logs_dir.mkdir(exist_ok=True, parents=True) # raises OSError if directory cannot be created
-    file_name = file_output_name
 
-    with open(logs_dir / file_name, "w") as file:
+    with open(logs_dir / file_output_name, "w") as file:
         for row in data:
             file.write(",".join(row) + "\n") # Concatenates list elements with commas and adds a newline
 
@@ -111,7 +113,8 @@ def get_path(filepath: str) -> Path:
         The path object of the file
     """
     script_dir = Path(__file__).parent
-    return script_dir / filepath
+    normalised_path = (script_dir / filepath).resolve() # resolve to get absolute path and remove any ../ or ./ parts
+    return normalised_path
 
 
 def setup_parser(config: Config) -> argparse.ArgumentParser:
@@ -125,7 +128,7 @@ def setup_parser(config: Config) -> argparse.ArgumentParser:
     """
     parser = argparse.ArgumentParser(description="File Reader for Data Migration")
     parser.add_argument("-i", "--input-file", type=str, default=config.input_file, help=f"(default: {config.input_file})")
-    parser.add_argument("-o", "--output-file-name", type=str, default=config.output_file, help=f"(default: {config.output_file})")
+    parser.add_argument("-o", "--output-file-name", type=str, default=config.output_file_name, help=f"(default: {config.output_file_name})")
     parser.add_argument("-d", "--drop-rows", action="store_true", help="drops rows containing invalid ids and rows containing empty values") 
     parser.add_argument("-v", "--verbose", action="store_true", help="prints contents of the csv to the terminal")
     return parser
@@ -137,6 +140,13 @@ def main():
 
     # Extract command line arguments
     args = parser.parse_args()
+    config = Config(
+        input_file=args.input_file,
+        logs_dir = Config.logs_dir,
+        output_file_name=args.output_file_name,
+        drop_rows=args.drop_rows,
+        verbose=args.verbose
+    )
     
     try:
         file_path = get_path(args.input_file)
@@ -149,8 +159,8 @@ def main():
         if args.verbose:
             print(file_content)
     
-        write_csv(file_content, args.output_file)
-        print(f"Successfully read and wrote csv file to directory: {Config.logs_dir}")
+        write_csv(file_content, args.output_file_name)
+        print(f"Successfully read and wrote csv file to directory: {get_path(config.logs_dir)}")
 
     except ValueError as ve:
         print(f"ValueError: {ve}")

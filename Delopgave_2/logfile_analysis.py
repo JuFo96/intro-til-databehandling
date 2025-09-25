@@ -87,16 +87,17 @@ def write_dict_to_files(data: dict[str, list[str]]) -> None:
 
 
 def get_path(filepath: str) -> Path:
-    """Returns the path object of the data
+    """Returns the path object from an input string, this ensures compatibility across different OS paths.
 
     Args:
-        filepath: The relative path from script directory to the data file
+        filepath: The relative path from script directory to file
 
     Returns:
-        The path object of the data path
+        The path object of the file
     """
     script_dir = Path(__file__).parent
-    return script_dir / filepath
+    normalised_path = (script_dir / filepath).resolve() # resolve to get absolute path and remove any ../ or ./ parts
+    return normalised_path
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Log file analysis")    
@@ -111,7 +112,7 @@ def main() -> None:
         separated_logs = seperate_log_by_type(log_messages)
         write_dict_to_files(separated_logs)
         
-        print("Successfully processed log file and wrote files to ../logs/Delopgave_2/.")
+        print(f"Successfully processed log file and wrote files to {log_path}")
 
     except ValueError as ve:
         print(f"ValueError: {ve}")
