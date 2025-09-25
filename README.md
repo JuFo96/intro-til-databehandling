@@ -49,7 +49,7 @@ Each script can be supplied with the --help flag
 uv run Delopgave_3/error_handling.py --help
 ```
 which gives the following output
-```bash
+```console
 usage: error_handling.py [-h] [-i INPUT_FILE] [-o OUTPUT_FILE_NAME] [-d] [-v]
 
 File Reader for Data Migration
