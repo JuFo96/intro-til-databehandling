@@ -22,6 +22,7 @@ Each script corresponds to one part of the assignment and is structured as follo
 - Python >= 3.10
 - matplotlib >= 3.10.6
 - pandas >= 2.3.2
+- wordcloud >= 1.9.4
 - ipykernel >= v6.30.1 (optional for jupyter notebooks)
 
 ### Installing
